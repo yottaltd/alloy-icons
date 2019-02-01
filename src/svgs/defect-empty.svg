@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>defect-empty</title>
+    <desc>Created with Sketch.</desc>
+    <g id="defect-empty" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-defect-empty" transform="translate(6.000000, 7.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M22.8515625,29.65625 L29.1484375,29.65625 L29.859375,13 L22.140625,13 L22.8515625,29.65625 Z M22.8515625,31.9921875 L29.1484375,31.9921875 L29.1484375,38.4921875 L22.8515625,38.4921875 L22.8515625,31.9921875 Z M26,0 C11.6796875,0 0,11.6796875 0,26 C0,40.3203125 11.6796875,52 26,52 C40.3203125,52 52,40.3203125 52,26 C52,11.6796875 40.3203125,0 26,0 Z M26,45.5 C15.03125,45.5 6.1953125,36.6640625 6.1953125,25.6953125 C6.1953125,14.828125 15.03125,5.9921875 26,5.9921875 C36.96875,5.9921875 45.8046875,14.828125 45.8046875,25.6953125 C45.8046875,36.6640625 36.96875,45.5 26,45.5 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

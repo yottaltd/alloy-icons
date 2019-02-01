@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>network-road</title>
+    <desc>Created with Sketch.</desc>
+    <g id="network-road" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-network-road" transform="translate(6.000000, 8.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M37.171875,0 L28.3359375,0 L28.640625,6.45553145 L23.6640625,6.6637744 L23.96875,0 L14.828125,0 L0,48 L20.3125,48 L21.53125,34.6724512 L29.859375,34.6724512 L31.1796875,48 L52,48 L37.171875,0 Z M22.34375,24.0520607 L23.15625,11.7657267 L28.84375,12.0780911 L29.65625,24.0520607 L22.34375,24.0520607 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

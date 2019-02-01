@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>stl-component-column</title>
+    <desc>Created with Sketch.</desc>
+    <g id="stl-component-column" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-stl-component-column" transform="translate(20.000000, 6.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M5.79661017,0 L18.8135593,0 L18.8135593,2.640625 L5.79661017,2.640625 L5.79661017,0 Z M5.79661017,41.640625 L18.8135593,41.640625 L18.8135593,44.1796875 L5.79661017,44.1796875 L5.79661017,41.640625 Z M8.33898305,5.1796875 L16.1694915,5.1796875 L16.1694915,39 L8.33898305,39 L8.33898305,5.1796875 Z M24,52 C22.9830508,50.171875 21.9661017,49.359375 20.3389831,46.8203125 L3.66101695,46.8203125 C2.13559322,49.359375 0.813559322,50.171875 0,52 L24,52 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

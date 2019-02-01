@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>parking-bay-small</title>
+    <desc>Created with Sketch.</desc>
+    <g id="parking-bay-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-parking-bay-small" transform="translate(6.000000, 6.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M26,20.67 L24.7,20.67 L24.7,25.35 L25.61,25.35 C26.39,25.35 27.04,24.96 27.69,24.7 C27.95,24.31 28.34,23.66 28.34,22.62 C28.34,21.71 27.69,20.67 26,20.67 Z M0,0 L0,52 L52,52 L52,0 L0,0 Z M31.98,27.95 C30.68,29.38 28.6,30.03 26.39,30.03 L24.7,30.03 L24.7,36.66 L19.37,36.66 L19.37,16.38 L26.39,16.38 C28.99,16.38 30.94,17.03 31.98,18.07 C33.28,18.98 33.93,20.67 33.93,22.62 C33.93,24.96 33.28,27.04 31.98,27.95 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

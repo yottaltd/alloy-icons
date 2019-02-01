@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>system-basemap</title>
+    <desc>Created with Sketch.</desc>
+    <g id="system-basemap" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-system-basemap" transform="translate(6.000000, 9.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M40.5234375,17.8600451 L52,12.5643341 L26,0 L0,12.5643341 L11.4765625,17.8600451 L0,23.1557562 L11.171875,28.4514673 L0,33.7471783 L26,46 L52,33.7471783 L40.828125,28.4514673 L52,23.1557562 L40.5234375,17.8600451 Z M26,4.0496614 L43.671875,12.2528217 L26,20.7674944 L8.328125,12.5643341 L26,4.0496614 Z M15.84375,19.7291196 L26,24.5056433 L36.359375,19.7291196 L43.671875,23.1557562 L26,31.6704289 L8.328125,23.4672686 L15.84375,19.7291196 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

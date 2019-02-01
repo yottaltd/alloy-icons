@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>math-hash</title>
+    <desc>Created with Sketch.</desc>
+    <g id="math-hash" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-math-hash" transform="translate(12.000000, 6.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M32,20.8203125 L30.5,31.1796875 L37.9,31.1796875 L37.9,36.6640625 L30,36.6640625 L27.7,52 L21.5,52 L23.6,36.6640625 L13.3,36.6640625 L11,52 L5.2,52 L7.2,36.6640625 L0,36.6640625 L0,31.1796875 L8,31.1796875 L9.5,20.8203125 L2.1,20.8203125 L2.1,15.3359375 L10,15.3359375 L12.3,0 L18.5,0 L16.2,15.3359375 L26.7,15.3359375 L29,0 L35.1,0 L32.8,15.3359375 L40,15.3359375 L40,20.8203125 L32,20.8203125 Z M15.4,20.8203125 L14.1,31.1796875 L24.6,31.1796875 L25.9,20.8203125 L15.4,20.8203125 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

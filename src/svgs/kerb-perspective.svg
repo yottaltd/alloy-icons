@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>kerb-perspective</title>
+    <desc>Created with Sketch.</desc>
+    <g id="kerb-perspective" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(6.000000, 9.000000)" fill="#000000" fill-rule="nonzero" id="Shape">
+            <path d="M31.5020747,7.70283019 L0,18.2264151 L11.6514523,18.5518868 L17.6929461,23.5424528 L17.6929461,36.0188679 L44.2323651,20.8301887 L44.2323651,11.6084906 L39.8091286,7.70283019 L31.5020747,7.70283019 Z M33.4439834,6.0754717 L42.2904564,6.29245283 L46.7136929,9.98113208 L46.7136929,19.6367925 L52,16.9245283 L52,0 L33.4439834,6.0754717 Z M0,21.5896226 L0,46 L14.3485477,37.9716981 L14.3485477,25.8207547 L9.38589212,21.5896226 L0,21.5896226 Z"></path>
+        </g>
+    </g>
+</svg>

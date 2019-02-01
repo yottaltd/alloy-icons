@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-left</title>
+    <desc>Created with Sketch.</desc>
+    <g id="arrow-left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-arrow-left" transform="translate(6.000000, 6.000000)" fill="#000000">
+            <polygon id="Path" points="26 0 0 26 26 52 29.65625 48.34375 9.8515625 28.640625 52 28.640625 52 23.359375 9.8515625 23.359375 29.65625 3.65625"></polygon>
+        </g>
+    </g>
+</svg>

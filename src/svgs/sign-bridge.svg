@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>sign-bridge</title>
+    <desc>Created with Sketch.</desc>
+    <g id="sign-bridge" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-sign-bridge" transform="translate(6.000000, 21.000000)" fill="#000000">
+            <path d="M26,4.64220183 C32.8046875,4.64220183 38.6953125,7.7706422 42.859375,12.412844 L42.859375,21.6972477 L52,21.6972477 L42.859375,6.1559633 C38.1875,2.32110092 32.5,0 26,0 C19.5,0 13.5078125,2.62385321 9.140625,6.4587156 L0,22 L9.140625,22 L9.140625,12.6146789 C13.3046875,7.7706422 19.1953125,4.64220183 26,4.64220183 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

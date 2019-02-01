@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>misc-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="misc-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-misc-icon" transform="translate(6.000000, 6.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M26,0 C11.6796875,0 0,11.6796875 0,26 C0,40.3203125 11.6796875,52 26,52 C40.3203125,52 52,40.3203125 52,26 C52,11.6796875 40.3203125,0 26,0 Z M26,49.96875 C12.6953125,49.96875 2.03125,39.3046875 2.03125,26 C2.03125,12.6953125 12.6953125,2.03125 26,2.03125 C39.3046875,2.03125 49.96875,12.6953125 49.96875,26 C49.96875,39.3046875 39.3046875,49.96875 26,49.96875 Z M26,38.6953125 L38.1875,18.484375 L13.8125,18.6875 L26,38.6953125 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

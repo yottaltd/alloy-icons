@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>sign-sqare-exit</title>
+    <desc>Created with Sketch.</desc>
+    <g id="sign-sqare-exit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-sign-sqare-exit" transform="translate(6.000000, 6.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M0,0 L0,52 L52,52 L52,0 L0,0 Z M43.1640625,45.5 L35.8515625,45.5 L35.8515625,36.6640625 L11.984375,12.6953125 L10.96875,6.703125 L17.1640625,7.515625 L35.8515625,26.203125 L35.8515625,10.8671875 L39.5078125,5.890625 L43.1640625,10.8671875 L43.1640625,45.5 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

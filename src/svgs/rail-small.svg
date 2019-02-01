@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>rail-small</title>
+    <desc>Created with Sketch.</desc>
+    <g id="rail-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-rail-small" transform="translate(6.000000, 25.000000)" fill="#000000">
+            <path d="M40.5853659,14 L52,14 L50.9430894,8.88333333 L48.4065041,8.88333333 C47.6666667,3.9 43.5447154,0.325 38.1544715,0 L11.097561,0 C6.76422764,0.325 3.27642276,3.9 2.43089431,8.55833333 L0.528455285,8.55833333 L0,13.7833333 L11.4146341,13.7833333 L10.3577236,8.55833333 L9.19512195,8.55833333 C9.72357724,6.93333333 10.8861789,5.85 11.9430894,5.30833333 L11.9430894,4.98333333 L38.4715447,4.98333333 C40.0569106,5.30833333 41.6422764,6.71666667 42.2764228,8.55833333 L41.1138211,8.55833333 L40.5853659,14 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>coversation-reply-full</title>
+    <desc>Created with Sketch.</desc>
+    <g id="coversation-reply-full" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-coversation-reply-full" transform="translate(6.000000, 10.000000)" fill="#000000">
+            <path d="M21.328125,11.9339623 L21.53125,0 L0,21.6886792 L21.53125,44 L21.53125,31.3396226 C23.6640625,31.0283019 25.6953125,30.7169811 27.828125,30.7169811 C45.8046875,30.7169811 52,41.6132075 52,41.6132075 C51.4921875,24.3867925 38.1875,14.5283019 21.328125,11.9339623 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

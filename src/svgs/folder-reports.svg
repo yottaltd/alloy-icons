@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>folder-reports</title>
+    <desc>Created with Sketch.</desc>
+    <g id="folder-reports" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-folder-reports" transform="translate(6.000000, 11.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M25.6953125,4.71219512 L22.140625,0 L10.96875,0 L7.3125,4.71219512 L0,4.71219512 L0,42 L52,42 L52,4.71219512 L25.6953125,4.71219512 Z M12.1875,34.6243902 L7.515625,34.6243902 L7.515625,13.9317073 L12.1875,13.9317073 L12.1875,34.6243902 Z M18.9921875,34.6243902 L14.5234375,34.6243902 L14.5234375,21.8195122 L19.1953125,21.8195122 L19.1953125,34.6243902 L18.9921875,34.6243902 Z M26,34.6243902 L21.328125,34.6243902 L21.328125,27.8634146 L26,27.8634146 L26,34.6243902 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

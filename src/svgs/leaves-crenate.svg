@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>leaves-crenate</title>
+    <desc>Created with Sketch.</desc>
+    <g id="leaves-crenate" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-leaves-crenate" transform="translate(6.000000, 16.000000)" fill="#000000">
+            <path d="M0,32 L52,31.7948718 L52,0 C46.8203125,0 44.484375,2.05128205 43.46875,4.41025641 C42.3515625,-0.307692308 35.6484375,0.820512821 35.140625,6.25641026 C32.1953125,0.205128205 26.8125,5.23076923 26.3046875,9.74358974 C21.0234375,5.23076923 15.84375,6.56410256 14.015625,13.3333333 C11.984375,8.1025641 4.671875,12.1025641 5.484375,19.1794872 C3.859375,17.025641 0.5078125,17.025641 0.3046875,20.5128205 L0,32 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

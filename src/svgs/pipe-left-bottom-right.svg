@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>pipe-left-bottom-right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="pipe-left-bottom-right" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-pipe-left-bottom-right" transform="translate(5.000000, 14.000000)" fill="#000000">
+            <path d="M48.140625,0.312138728 L48.140625,3.01734104 L21.53125,3.01734104 C20.8203125,2.70520231 20.3125,2.70520231 19.8046875,2.70520231 L4.1640625,2.70520231 L4.1640625,0 L0,0 L0,18.416185 L4.1640625,18.416185 L4.1640625,15.7109827 L18.9921875,15.7109827 C19.5,16.0231214 20.0078125,16.5433526 20.0078125,17.0635838 L20.0078125,31.734104 L17.46875,31.734104 L17.46875,36 L35.34375,36 L35.34375,31.734104 L32.8046875,31.734104 L32.8046875,15.7109827 L48.34375,15.7109827 L48.34375,18.416185 L52,18.416185 L52,0.312138728 L48.140625,0.312138728 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

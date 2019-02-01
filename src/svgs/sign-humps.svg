@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>sign-humps</title>
+    <desc>Created with Sketch.</desc>
+    <g id="sign-humps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-sign-humps" transform="translate(6.000000, 6.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M45.372549,0 L6.83137255,0 C3.16078431,0 0,3.1484375 0,6.8046875 L0,44.9921875 C0,48.8515625 3.16078431,52 6.83137255,52 L45.1686275,52 C49.0431373,52 51.8980392,48.8515625 51.8980392,45.1953125 L51.8980392,6.8046875 C52.2039216,3.1484375 49.0431373,0 45.372549,0 Z M26.1019608,44.9921875 C15.7019608,44.9921875 7.03529412,36.359375 7.03529412,26 C7.03529412,15.640625 15.7019608,7.0078125 26.1019608,7.0078125 C36.5019608,7.0078125 45.1686275,15.640625 45.1686275,26 C45.1686275,36.359375 36.5019608,44.9921875 26.1019608,44.9921875 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

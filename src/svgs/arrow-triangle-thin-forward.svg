@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-triangle-thin-forward</title>
+    <desc>Created with Sketch.</desc>
+    <g id="arrow-triangle-thin-forward" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-arrow-triangle-thin-forward" transform="translate(6.000000, 6.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M0,7.3125 L19.1794872,26 L0,44.6875 L0,52 L26.2564103,26 L0,0 L0,7.3125 Z M25.7435897,7.3125 L44.6153846,26 L25.7435897,44.6875 L25.7435897,52 L52,26 L25.7435897,0 L25.7435897,7.3125 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

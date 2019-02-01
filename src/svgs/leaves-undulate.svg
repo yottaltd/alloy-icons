@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>leaves-undulate</title>
+    <desc>Created with Sketch.</desc>
+    <g id="leaves-undulate" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-leaves-undulate" transform="translate(6.000000, 17.000000)" fill="#000000">
+            <path d="M0,30 L51.6988417,30 L52,4.86486486 C52,4.86486486 48.3861004,5.67567568 44.7722008,2.02702703 C42.4633205,0 38.046332,-0.608108108 35.034749,0.709459459 C32.1235521,1.72297297 31.1196911,3.04054054 30.6177606,6.68918919 C30.1158301,9.83108108 24.996139,11.8581081 21.5830116,11.8581081 C18.0694981,12.1621622 14.1544402,9.83108108 10.8416988,9.83108108 C7.02702703,10.0337838 4.41698842,11.1486486 3.11196911,13.4797297 C2.10810811,15.5067568 0.301158301,20.472973 0.301158301,20.472973 L0,30 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>system-layers</title>
+    <desc>Created with Sketch.</desc>
+    <g id="system-layers" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-system-layers" transform="translate(6.000000, 9.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M51.7936508,23.5816092 L40.1349206,17.8712644 L52,12.1609195 L25.8968254,0 L0,12.1609195 L11.6587302,17.554023 L0,22.9471264 L11.6587302,28.445977 L0,33.8390805 L25.8968254,46 L51.7936508,33.8390805 L40.4444444,28.445977 L51.7936508,23.5816092 Z M15.8888889,19.7747126 L25.8968254,24.6390805 L35.9047619,19.7747126 L43.6428571,23.2643678 L25.8968254,31.6183908 L8.15079365,23.2643678 L15.8888889,19.7747126 Z M43.6428571,34.3678161 L25.8968254,42.7218391 L8.46031746,34.3678161 L15.8888889,30.8781609 L26.2063492,35.7425287 L36.4206349,30.8781609 L43.6428571,34.3678161 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

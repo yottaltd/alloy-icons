@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>import</title>
+    <desc>Created with Sketch.</desc>
+    <g id="import" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-import" transform="translate(6.000000, 17.000000)" fill="#000000">
+            <path d="M46.5686654,14.0124224 C46.5686654,6.0621118 40.131528,0 32.3868472,0 C27.2572534,0 22.6305609,2.7826087 20.0154739,6.85714286 C19.0096712,6.55900621 17.7021277,6.36024845 16.696325,6.36024845 C12.270793,6.36024845 8.44874275,9.14285714 7.14119923,13.2173913 C3.01740812,14.2111801 0,17.9875776 0,22.3602484 C0,27.7267081 4.32495164,32 9.75628627,32 C10.2591876,32 10.5609284,32 11.0638298,32 L42.1431335,32 C47.5744681,32 52,27.7267081 52,22.3602484 C51.6982592,18.7826087 49.6866538,15.5031056 46.5686654,14.0124224 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>misc-warning</title>
+    <desc>Created with Sketch.</desc>
+    <g id="misc-warning" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-misc-warning" transform="translate(6.000000, 8.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M51.6953125,45.1120332 L27.5234375,1.09543568 C27.3203125,0.497925311 26.5078125,0 26,0 C25.1875,0 24.6796875,0.298755187 24.4765625,1.09543568 L0.3046875,45.1120332 C0,45.7095436 0,46.406639 0.3046875,46.9045643 C0.5078125,47.5020747 1.3203125,48 1.828125,48 L50.171875,48 C50.984375,48 51.4921875,47.7012448 51.6953125,46.9045643 C52,46.406639 52,45.7095436 51.6953125,45.1120332 Z M28.640625,42.6224066 L23.359375,42.6224066 L23.359375,37.2448133 L28.640625,37.2448133 L28.640625,42.6224066 Z M28.640625,33.1618257 L23.359375,33.1618257 L23.359375,15.8340249 L28.640625,15.8340249 L28.640625,33.1618257 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

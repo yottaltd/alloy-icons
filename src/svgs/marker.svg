@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>marker</title>
+    <desc>Created with Sketch.</desc>
+    <g id="marker" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-marker" transform="translate(13.000000, 6.000000)" fill="#000000">
+            <path d="M19,0 C8.4673913,0 0,8.328125 0,18.6875 C0,29.1484375 13.2173913,44.1796875 19,52 C27.673913,40.828125 38,29.1484375 38,18.6875 C38,8.328125 29.5326087,0 19,0 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

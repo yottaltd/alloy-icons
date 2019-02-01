@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>misc-filter-empty</title>
+    <desc>Created with Sketch.</desc>
+    <g id="misc-filter-empty" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-misc-filter-empty" transform="translate(6.000000, 6.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M52,0 L0,0 L20,20.3253968 L20,52 L31.4871795,46.9444444 L31.4871795,20.015873 L52,0 Z M24.7179487,44.8809524 L24.7179487,18.6746032 L11.2820513,4.95238095 L40.2051282,4.95238095 L26.7692308,18.6746032 L26.7692308,44.0555556 L24.7179487,44.8809524 L24.7179487,31.3650794 L24.7179487,44.8809524 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

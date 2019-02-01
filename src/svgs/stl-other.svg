@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>stl-other</title>
+    <desc>Created with Sketch.</desc>
+    <g id="stl-other" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-stl-other" transform="translate(12.000000, 6.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M17.2916667,5.23076923 L22.7083333,5.23076923 L22.7083333,15.7948718 L17.2916667,15.7948718 L17.2916667,5.23076923 Z M9.375,0 L30.625,0 L30.625,2.66666667 L9.375,2.66666667 L9.375,0 Z M26.6666667,26.2564103 L13.3333333,26.2564103 L0,42.0512821 L40,42.0512821 L26.6666667,26.2564103 Z M14.6875,18.3589744 L25.3125,18.3589744 L25.3125,23.5897436 L14.6875,23.5897436 L14.6875,18.3589744 Z M11.7708333,44.6153846 C12.2916667,47.2820513 16.0416667,52 20.3125,52 C24.5833333,52 28.2291667,47.2820513 28.75,44.6153846 L11.7708333,44.6153846 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

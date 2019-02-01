@@ -1,0 +1,19 @@
+{
+  "name": "alloy-icons",
+  "version": "1.0.0",
+  "description": "icons for alloy",
+  "private": true,
+  "scripts": {
+    "icons": "node ./processIcons.js"
+  },
+  "devDependencies": {
+    "prettier": "^1.16.3",
+    "webfont": "^8.2.1"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all",
+    "arrowParens": "always",
+    "printWidth": 100
+  }
+}

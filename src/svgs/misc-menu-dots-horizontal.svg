@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>misc-menu-dots-horizontal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="misc-menu-dots-horizontal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-misc-menu-dots-horizontal" transform="translate(6.000000, 27.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M10.020284,5 C10.020284,7.76595745 7.69979716,10 4.95740365,10 C2.21501014,10 0,7.76595745 0,5 C0,2.23404255 2.21501014,0 4.95740365,0 C7.69979716,0 10.020284,2.23404255 10.020284,5 Z M52,5 C52,7.76595745 49.7849899,10 46.9371197,10 C44.1947262,10 41.979716,7.76595745 41.979716,5 C41.979716,2.23404255 44.1947262,0 46.9371197,0 C49.7849899,0 52,2.23404255 52,5 Z M31.010142,5 C31.010142,7.76595745 28.7951318,10 25.9472617,10 C23.2048682,10 20.989858,7.76595745 20.989858,5 C20.989858,2.23404255 23.2048682,0 25.9472617,0 C28.7951318,0 31.010142,2.23404255 31.010142,5 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

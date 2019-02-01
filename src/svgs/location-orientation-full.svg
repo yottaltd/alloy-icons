@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>location-orientation-full</title>
+    <desc>Created with Sketch.</desc>
+    <g id="location-orientation-full" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-location-orientation-full" transform="translate(6.000000, 6.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M7.63209393,44.4124514 C17.8082192,54.5291829 34.1917808,54.5291829 44.3679061,44.4124514 C54.5440313,34.2957198 54.5440313,18.0077821 44.3679061,7.89105058 C34.4970646,-2.52918288 17.8082192,-2.52918288 7.63209393,7.58754864 C-2.54403131,17.7042802 -2.54403131,34.2957198 7.63209393,44.4124514 Z M11.8043053,41.5797665 L10.481409,40.2645914 L21.9804305,21.8521401 L40.5009785,10.4202335 L41.8238748,11.7354086 L30.3248532,30.1478599 L11.8043053,41.5797665 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>traffic-light-lantern</title>
+    <desc>Created with Sketch.</desc>
+    <g id="traffic-light-lantern" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-traffic-light-lantern" transform="translate(6.000000, 7.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M26.3391304,0.112068966 C11.8695652,-0.224137931 0,11.5431034 0,25.887931 C0,39.8965517 11.8695652,51.6637931 26,52 C40.1304348,51.6637931 52,40.5689655 52,26.2241379 C52,11.8793103 40.4695652,0.112068966 26.3391304,0.112068966 Z M26,47.4051724 C14.1304348,47.4051724 3.95652174,37.9913793 3.95652174,26.4482759 C3.95652174,23.8706897 4.63478261,21.6293103 5.42608696,19.2758621 C13.226087,16.137931 29.7304348,11.5431034 46.573913,20.1724138 C47.3652174,22.1896552 47.7043478,24.4310345 47.7043478,26.7844828 C47.7043478,38.2155172 37.8695652,47.0689655 26,47.4051724 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

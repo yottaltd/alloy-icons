@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>road-markings-top</title>
+    <desc>Created with Sketch.</desc>
+    <g id="road-markings-top" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(6.000000, 6.000000)" fill="#000000" fill-rule="nonzero" id="Shape">
+            <path d="M0,0 L52,0 L52,6.14937759 L0,6.14937759 L0,0 Z M0,45.8506224 L52,45.8506224 L52,52 L0,52 L0,45.8506224 Z M0,40.1327801 L52,40.1327801 L52,43.153527 L0,43.153527 L0,40.1327801 Z M0,9.17012448 L52,9.17012448 L52,12.1908714 L0,12.1908714 L0,9.17012448 Z"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>stl-component-bracket</title>
+    <desc>Created with Sketch.</desc>
+    <g id="stl-component-bracket" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-stl-component-bracket" transform="translate(9.000000, 6.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M0,0 L17.8611714,0 L17.8611714,2.640625 L0,2.640625 L0,0 Z M17.8611714,18.1796875 L46,11.171875 L46,2.640625 L17.8611714,9.34375 L17.8611714,18.1796875 Z M17.8611714,34.53125 L30.4338395,16.859375 L17.8611714,20.0078125 L17.8611714,34.53125 Z M2.59436009,5.1796875 L2.59436009,52 L15.3665944,52 L15.3665944,5.1796875 L2.59436009,5.1796875 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

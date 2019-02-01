@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>crossing-pedestrian-perspective</title>
+    <desc>Created with Sketch.</desc>
+    <g id="crossing-pedestrian-perspective" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-crossing-pedestrian-perspective" transform="translate(6.000000, 8.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M37.3884298,0 L14.8264463,0 L0,48 L52,48 L37.3884298,0 Z M15.6859504,29.6146789 L11.4958678,29.6146789 L13.7520661,18.0550459 L16.7603306,18.0550459 L15.6859504,29.6146789 Z M22.0247934,29.6146789 L18.6942149,29.6146789 L19.768595,18.0550459 L22.2396694,18.0550459 L22.0247934,29.6146789 Z M25.0330579,29.6146789 L25.5702479,18.0550459 L28.0413223,18.0550459 L28.2561983,29.6146789 L25.0330579,29.6146789 Z M30.8347107,29.6146789 L30.1900826,18.0550459 L32.661157,18.0550459 L33.8429752,29.6146789 L30.8347107,29.6146789 Z M35.9917355,18.0550459 L39,18.0550459 L41.4710744,29.6146789 L37.3884298,29.6146789 L35.9917355,18.0550459 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

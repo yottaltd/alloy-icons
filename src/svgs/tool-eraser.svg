@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>tool-eraser</title>
+    <desc>Created with Sketch.</desc>
+    <g id="tool-eraser" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-tool-eraser" transform="translate(12.000000, 6.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M30,0 C29.5744681,0 28.2978723,0 27.8723404,0 L12.5531915,0 C12.1276596,0 10.8510638,0 10.4255319,0 C4.89361702,0 0,4.43902439 0,9.72357724 L0,42.2764228 C0,47.5609756 4.46808511,52 9.78723404,52 L30,52 C35.5319149,52 39.787234,47.5609756 39.787234,42.2764228 L39.787234,9.72357724 C40.4255319,4.43902439 35.5319149,0 30,0 Z M34.893617,38.4715447 C34.893617,43.7560976 34.4680851,46.504065 28.9361702,46.504065 C28.2978723,46.504065 19.5744681,46.504065 19.1489362,46.504065 L11.4893617,46.504065 C5.95744681,46.504065 5.53191489,44.3902439 5.53191489,38.8943089 L5.53191489,27.0569106 L34.893617,27.0569106 L34.893617,38.4715447 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

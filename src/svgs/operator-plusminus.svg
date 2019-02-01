@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>operator-plusminus</title>
+    <desc>Created with Sketch.</desc>
+    <g id="operator-plusminus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-operator-plusminus" transform="translate(11.000000, 6.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M25.7121951,24.6640316 L25.7121951,39.1541502 L16.2878049,39.1541502 L16.2878049,24.6640316 L0,24.6640316 L0,16.0316206 L16.4926829,16.0316206 L16.4926829,0 L25.7121951,0 L25.7121951,16.0316206 L42,16.0316206 L42,24.972332 L25.7121951,24.972332 L25.7121951,24.6640316 Z M0,52 L0,43.0592885 L42,43.0592885 L42,52 L0,52 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

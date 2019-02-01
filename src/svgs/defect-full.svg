@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>defect-full</title>
+    <desc>Created with Sketch.</desc>
+    <g id="defect-full" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-defect-full" transform="translate(6.000000, 7.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M26,0 C11.5098814,0 0,11.5098814 0,26 C0,40.4901186 11.5098814,52 26,52 C40.4901186,52 52,40.4901186 52,26 C52,11.5098814 40.4901186,0 26,0 Z M29.3913043,40.1818182 L22.6086957,40.1818182 L22.6086957,33.0909091 L29.3913043,33.0909091 L29.3913043,40.1818182 Z M29.3913043,30.5217391 L22.6086957,30.5217391 L21.7865613,12.0237154 L30.5217391,12.0237154 L29.3913043,30.5217391 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

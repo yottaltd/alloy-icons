@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>tool-point</title>
+    <desc>Created with Sketch.</desc>
+    <g id="tool-point" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-tool-point" transform="translate(27.000000, 27.000000)" fill="#000000">
+            <path d="M10,5.04854369 C10,7.76699029 7.76699029,10 5.04854369,10 C2.23300971,10 0,7.76699029 0,5.04854369 C0,2.23300971 2.23300971,0 5.04854369,0 C7.76699029,0 10,2.23300971 10,5.04854369 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

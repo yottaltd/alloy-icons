@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>barrier-temporary-single</title>
+    <desc>Created with Sketch.</desc>
+    <g id="barrier-temporary-single" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-barrier-temporary-single" transform="translate(6.000000, 13.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M46.515625,4.63476071 L46.515625,0 L41.03125,0 L41.03125,4.63476071 L11.4765625,4.63476071 L11.4765625,0 L5.9921875,0 L5.9921875,4.63476071 L0,4.63476071 L0,24.2821159 L5.9921875,24.2821159 L5.9921875,40 L11.4765625,40 L11.4765625,24.2821159 L40.828125,24.2821159 L40.828125,40 L46.3125,40 L46.3125,24.2821159 L52,24.2821159 L52,4.63476071 L46.515625,4.63476071 Z M9.34375,20.9571788 L2.640625,20.9571788 L8.53125,8.26196474 L15.640625,8.26196474 L9.34375,20.9571788 Z M26.8125,20.9571788 L19.8046875,20.9571788 L26,8.26196474 L33.0078125,8.26196474 L26.8125,20.9571788 Z M43.671875,20.9571788 L36.6640625,20.9571788 L42.65625,8.26196474 L49.6640625,8.26196474 L43.671875,20.9571788 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

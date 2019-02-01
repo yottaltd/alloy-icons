@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>misc-backspace</title>
+    <desc>Created with Sketch.</desc>
+    <g id="misc-backspace" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-misc-backspace" transform="translate(6.000000, 14.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M46.9298246,0 L21.4736842,0 C20.4795322,0 18.8888889,0.502793296 17.8947368,1.30726257 L0.596491228,16.6927374 C-0.198830409,17.4972067 -0.198830409,18.8044693 0.596491228,19.5083799 L17.8947368,34.6927374 C18.8888889,35.4972067 20.4795322,36 21.4736842,36 L46.9298246,36 C49.7134503,36 52,33.6871508 52,30.8715084 L52,5.12849162 C52,2.31284916 49.7134503,0 46.9298246,0 Z M38.7719298,28.2569832 L32.2105263,21.6201117 L25.8479532,28.2569832 L22.2690058,24.7374302 L28.8304094,18 L21.9707602,11.2625698 L25.8479532,7.74301676 L32.4093567,14.3798883 L38.7719298,7.74301676 L42.3508772,11.2625698 L35.9883041,18 L42.6491228,24.7374302 L38.7719298,28.2569832 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

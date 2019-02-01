@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>resource-display</title>
+    <desc>Created with Sketch.</desc>
+    <g id="resource-display" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M34,46 L34,50 L43,50 L43,54 L21,54 L21,50 L30,50 L30,46 L8,46 C6.8954305,46 6,45.1045695 6,44 L6,13 C6,11.3431458 7.34314575,10 9,10 L55,10 C56.6568542,10 58,11.3431458 58,13 L58,44 C58,45.1045695 57.1045695,46 56,46 L34,46 Z M10,14 L10,38 L54,38 L54,14 L10,14 Z M28,41 L28,43 L36,43 L36,41 L28,41 Z" fill="#000000"></path>
+    </g>
+</svg>

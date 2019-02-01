@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>leaves-spatulate</title>
+    <desc>Created with Sketch.</desc>
+    <g id="leaves-spatulate" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-leaves-spatulate" transform="translate(6.000000, 24.000000)" fill="#000000">
+            <path d="M51.8986355,5.79865772 C33.754386,9.55704698 18.4483431,0 10.3391813,0 C6.791423,0 0,1.39597315 0,7.40939597 C0,13.7449664 6.791423,16.2147651 10.9473684,15.8926174 C18.4483431,15.3557047 27.9766082,8.48322148 42.0662768,9.02013423 L51.3918129,8.48322148 C51.8986355,8.48322148 51.0877193,7.62416107 51.0877193,7.40939597 C51.0877193,6.55033557 52.202729,5.79865772 51.8986355,5.79865772 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

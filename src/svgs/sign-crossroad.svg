@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>sign-crossroad</title>
+    <desc>Created with Sketch.</desc>
+    <g id="sign-crossroad" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-sign-crossroad" transform="translate(6.000000, 15.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M39.8091286,17 L49.1950207,12.2955975 L52,4.16981132 L46.3900415,0 L26,10.1572327 L5.60995851,0.320754717 L0,4.3836478 L2.80497925,12.6163522 L12.1908714,17 L2.80497925,21.7044025 L0,29.8301887 L5.60995851,34 L26,24.163522 L46.3900415,34 L52,29.8301887 L49.1950207,21.7044025 L39.8091286,17 Z M45.8506224,29.2955975 L26,19.7798742 L6.14937759,29.6163522 L4.9626556,24.9119497 L20.4979253,17 L4.9626556,9.30188679 L6.14937759,4.70440252 L26,14.2201258 L45.8506224,4.3836478 L47.0373444,9.08805031 L31.5020747,17 L47.253112,24.6981132 L45.8506224,29.2955975 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
