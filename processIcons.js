@@ -27,11 +27,11 @@ if (!fs.existsSync(svgDirectory)) {
 
 console.log('starting webfont processing...');
 webfont({
-  files,
-  fontName: 'alloyicons',
-  template: 'css',
-  templateClassName: 'icon',
-})
+    files,
+    fontName: 'alloyicons',
+    template: 'css',
+    templateClassName: 'icon',
+  })
   .then((result) => {
     console.log('webfonts processed!');
 
@@ -321,7 +321,7 @@ export abstract class IconUtils {
   }
   // maps and arrays
   public static readonly CATEGORIES: Readonly<Map<string, IconMetadata[]>> = new Map(${categoriesMap});
-  private static readonly ICONS: Readonly<Map<string, IconMetadata>> = new Map(${iconsMap});
+  public static readonly ICONS: Readonly<Map<string, IconMetadata>> = new Map(${iconsMap});
 }
 `,
   );
