@@ -1,0 +1,25 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/node:10.15.1
+    working_directory: ~/app
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+            - v1-{{ checksum "package.json" }}
+      - run:
+          name: Running npm ci
+          command: npm ci
+      # save the cache as the package checksum for future checkout and builds
+      - save_cache:
+          name: Caching node modules
+          key: v1-{{ checksum "package.json" }}
+          paths:
+            - node_modules
+            - ~/.npm
+            - ~/.cache
+      - run:
+          name: Generating icons
+          command: npm run icons
