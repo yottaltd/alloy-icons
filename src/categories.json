@@ -545,7 +545,11 @@
     },
     {
       "key": "route",
-      "icons": ["route-finish", "route-start", "route"]
+      "icons": [
+        "route-finish",
+        "route-start",
+        "route"
+      ]
     },
     {
       "key": "schedule",
@@ -661,6 +665,7 @@
       "key": "system",
       "icons": [
         "close",
+        "close-small",
         "collection-card",
         "collection-empty",
         "collection-full",
@@ -827,7 +832,13 @@
     },
     {
       "key": "unit",
-      "icons": ["unit-area", "unit-length", "unit-per-unit", "unit-time", "unit-volume"]
+      "icons": [
+        "unit-area",
+        "unit-length",
+        "unit-per-unit",
+        "unit-time",
+        "unit-volume"
+      ]
     }
   ]
 }
