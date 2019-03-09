@@ -31,6 +31,8 @@ webfont({
     fontName: 'alloyicons',
     template: 'css',
     templateClassName: 'icon',
+    fontHeight: 500,
+    normalize: true,
   })
   .then((result) => {
     console.log('webfonts processed!');
