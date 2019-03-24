@@ -791,10 +791,13 @@
         "user-team",
         "user",
         "copy-to-clipboard",
-        "load",
+        "reload",
         "save-alt",
         "save",
+        "misc-share",
+        "misc-subscription",
         "upload"
+
 
       ]
     },

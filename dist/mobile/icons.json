@@ -1851,502 +1851,502 @@
       "system"
     ]
   },
-  "icon-load": {
-    "unicode": "",
-    "categories": [
-      "system"
-    ]
-  },
   "icon-location-findme-inprogress": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "location"
     ]
   },
   "icon-location-findme-off": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "location"
     ]
   },
   "icon-location-findme-on": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "location"
     ]
   },
   "icon-location-orientation-empty": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "location"
     ]
   },
   "icon-location-orientation-full": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "location"
     ]
   },
   "icon-location-target": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "location"
     ]
   },
   "icon-lock": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ]
   },
   "icon-lock-group": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ]
   },
   "icon-lock-invisible": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ]
   },
   "icon-lock-key-old": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ]
   },
   "icon-lock-open": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ]
   },
   "icon-lock-public": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ]
   },
   "icon-marker": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "map_marker"
     ]
   },
   "icon-marker-circle": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "map_marker"
     ]
   },
   "icon-marker-coffee": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "map_marker"
     ]
   },
   "icon-marker-empty": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "map_marker"
     ]
   },
   "icon-marker-flag": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "map_marker"
     ]
   },
   "icon-marker-historical": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "map_marker"
     ]
   },
   "icon-marker-home": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "map_marker"
     ]
   },
   "icon-marker-reserve": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "map_marker"
     ]
   },
   "icon-marker-station": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "map_marker"
     ]
   },
   "icon-market-camp": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "map_marker"
     ]
   },
   "icon-markings-hatchedroad": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "road"
     ]
   },
   "icon-markings-longitudinalroad": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "road"
     ]
   },
   "icon-markings-transversespecial": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "road"
     ]
   },
   "icon-math-ab": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ]
   },
   "icon-math-all": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ]
   },
   "icon-math-any": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ]
   },
   "icon-math-approximate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ]
   },
   "icon-math-brackets": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ]
   },
   "icon-math-hash": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ]
   },
   "icon-math-number": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ]
   },
   "icon-math-sqroot": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ]
   },
   "icon-math-sum": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ]
   },
   "icon-math-text": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ]
   },
   "icon-math-tilde": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ]
   },
   "icon-misc-archive": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-archived": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-attachment": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ]
   },
   "icon-misc-backspace": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-bell-empty": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-bell-full": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-bin": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-bookmark": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-bug": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-chart-pie": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-collapse": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-crop-crop": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-done": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-error": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-expand": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-export": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-filter": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-filter-empty": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-filter-full": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-fingerprint": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-graph-display": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ]
   },
   "icon-misc-heart": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-icon": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-information": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-linked": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-loading": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-menu-dots-horizontal": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-menu-dots-vertical": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-minus": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-mixer": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-movie-play": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-paperplane": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-pause": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-pen-edit": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-photo": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-pin": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-play": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-plus": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-print": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-quard": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-question-mark": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-required": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-selection-box": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-selection-box-empty": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-settings": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-misc-setup": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
+    ]
+  },
+  "icon-misc-share": {
+    "unicode": "",
+    "categories": [
+      "system"
     ]
   },
   "icon-misc-star-empty": {
@@ -2373,1736 +2373,1748 @@
       "general"
     ]
   },
-  "icon-misc-sync": {
+  "icon-misc-subscription": {
     "unicode": "",
     "categories": [
-      "general"
+      "system"
     ]
   },
-  "icon-misc-thumb-down": {
+  "icon-misc-sync": {
     "unicode": "",
     "categories": [
       "general"
     ]
   },
-  "icon-misc-thumb-up": {
+  "icon-misc-thumb-down": {
     "unicode": "",
     "categories": [
       "general"
     ]
   },
-  "icon-misc-visible-false": {
+  "icon-misc-thumb-up": {
     "unicode": "",
     "categories": [
       "general"
     ]
   },
-  "icon-misc-visible-true": {
+  "icon-misc-visible-false": {
     "unicode": "",
     "categories": [
       "general"
     ]
   },
-  "icon-misc-warning": {
+  "icon-misc-visible-true": {
     "unicode": "",
     "categories": [
       "general"
     ]
   },
-  "icon-misc-watch": {
+  "icon-misc-warning": {
     "unicode": "",
     "categories": [
       "general"
     ]
   },
-  "icon-misc-wind-turbine": {
+  "icon-misc-watch": {
     "unicode": "",
     "categories": [
       "general"
     ]
   },
-  "icon-network": {
+  "icon-misc-wind-turbine": {
     "unicode": "",
     "categories": [
-      "network"
+      "general"
     ]
   },
-  "icon-network-highway": {
+  "icon-network": {
     "unicode": "",
     "categories": [
       "network"
     ]
   },
-  "icon-network-road": {
+  "icon-network-highway": {
     "unicode": "",
     "categories": [
       "network"
     ]
   },
-  "icon-network-structure-iso-bottom": {
+  "icon-network-road": {
     "unicode": "",
     "categories": [
       "network"
     ]
   },
-  "icon-network-structure-iso-top": {
+  "icon-network-structure-iso-bottom": {
     "unicode": "",
     "categories": [
       "network"
     ]
   },
-  "icon-network-structure-middle": {
+  "icon-network-structure-iso-top": {
     "unicode": "",
     "categories": [
       "network"
     ]
   },
-  "icon-network-structure-top": {
+  "icon-network-structure-middle": {
     "unicode": "",
     "categories": [
       "network"
     ]
   },
-  "icon-network-surface": {
+  "icon-network-structure-top": {
     "unicode": "",
     "categories": [
       "network"
     ]
   },
-  "icon-network-surface-bottom": {
+  "icon-network-surface": {
     "unicode": "",
     "categories": [
       "network"
     ]
   },
-  "icon-network-surface-middle": {
+  "icon-network-surface-bottom": {
     "unicode": "",
     "categories": [
       "network"
     ]
   },
-  "icon-operator-divide": {
+  "icon-network-surface-middle": {
     "unicode": "",
     "categories": [
-      "math"
+      "network"
     ]
   },
-  "icon-operator-minus": {
+  "icon-operator-divide": {
     "unicode": "",
     "categories": [
       "math"
     ]
   },
-  "icon-operator-multiply": {
+  "icon-operator-minus": {
     "unicode": "",
     "categories": [
       "math"
     ]
   },
-  "icon-operator-plus": {
+  "icon-operator-multiply": {
     "unicode": "",
     "categories": [
       "math"
     ]
   },
-  "icon-operator-plusminus": {
+  "icon-operator-plus": {
     "unicode": "",
     "categories": [
       "math"
     ]
   },
-  "icon-parking-bay": {
+  "icon-operator-plusminus": {
     "unicode": "",
     "categories": [
-      "parking"
+      "math"
     ]
   },
-  "icon-parking-bay-small": {
+  "icon-parking-bay": {
     "unicode": "",
     "categories": [
       "parking"
     ]
   },
-  "icon-parking-enforcement": {
+  "icon-parking-bay-small": {
     "unicode": "",
     "categories": [
       "parking"
     ]
   },
-  "icon-parking-meter": {
+  "icon-parking-enforcement": {
     "unicode": "",
     "categories": [
       "parking"
     ]
   },
-  "icon-parking-meter-simple": {
+  "icon-parking-meter": {
     "unicode": "",
     "categories": [
       "parking"
     ]
   },
-  "icon-parking-ticket-machine": {
+  "icon-parking-meter-simple": {
     "unicode": "",
     "categories": [
       "parking"
     ]
   },
-  "icon-parking-vehicle-single": {
+  "icon-parking-ticket-machine": {
     "unicode": "",
     "categories": [
       "parking"
     ]
   },
-  "icon-parking-vehicles": {
+  "icon-parking-vehicle-single": {
     "unicode": "",
     "categories": [
       "parking"
     ]
   },
-  "icon-person-at-work": {
+  "icon-parking-vehicles": {
     "unicode": "",
     "categories": [
-      "people"
+      "parking"
     ]
   },
-  "icon-person-disabled": {
+  "icon-person-at-work": {
     "unicode": "",
     "categories": [
       "people"
     ]
   },
-  "icon-person-not-allowed": {
+  "icon-person-disabled": {
     "unicode": "",
     "categories": [
       "people"
     ]
   },
-  "icon-person-running": {
+  "icon-person-not-allowed": {
     "unicode": "",
     "categories": [
       "people"
     ]
   },
-  "icon-person-stand": {
+  "icon-person-running": {
     "unicode": "",
     "categories": [
       "people"
     ]
   },
-  "icon-person-walking": {
+  "icon-person-stand": {
     "unicode": "",
     "categories": [
       "people"
     ]
   },
-  "icon-pipe-bottom-right": {
+  "icon-person-walking": {
     "unicode": "",
     "categories": [
-      "pipes_and_drainage"
+      "people"
     ]
   },
-  "icon-pipe-cross": {
+  "icon-pipe-bottom-right": {
     "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ]
   },
-  "icon-pipe-left-bottom": {
+  "icon-pipe-cross": {
     "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ]
   },
-  "icon-pipe-left-bottom-right": {
+  "icon-pipe-left-bottom": {
     "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ]
   },
-  "icon-pipe-left-right": {
+  "icon-pipe-left-bottom-right": {
     "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ]
   },
-  "icon-pipe-left-top": {
+  "icon-pipe-left-right": {
     "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ]
   },
-  "icon-pipe-left-top-bottom": {
+  "icon-pipe-left-top": {
     "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ]
   },
-  "icon-pipe-left-top-right": {
+  "icon-pipe-left-top-bottom": {
     "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ]
   },
-  "icon-pipe-top-bottom": {
+  "icon-pipe-left-top-right": {
     "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ]
   },
-  "icon-pipe-top-right": {
+  "icon-pipe-top-bottom": {
     "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ]
   },
-  "icon-pipe-top-right-bottom": {
+  "icon-pipe-top-right": {
     "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ]
   },
-  "icon-pipe-valve-left-right": {
+  "icon-pipe-top-right-bottom": {
     "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ]
   },
-  "icon-pipe-valve-top-bottom": {
+  "icon-pipe-valve-left-right": {
     "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ]
   },
-  "icon-playarea": {
+  "icon-pipe-valve-top-bottom": {
     "unicode": "",
+    "categories": [
+      "pipes_and_drainage"
+    ]
+  },
+  "icon-playarea": {
+    "unicode": "",
     "categories": [
       "general"
     ]
   },
   "icon-rail": {
-    "unicode": "",
-    "categories": [
-      "barriers"
-    ]
-  },
-  "icon-rail-hand": {
     "unicode": "",
     "categories": [
       "barriers"
     ]
   },
-  "icon-rail-small": {
+  "icon-rail-hand": {
     "unicode": "",
     "categories": [
       "barriers"
     ]
   },
-  "icon-reports": {
+  "icon-rail-small": {
     "unicode": "",
+    "categories": [
+      "barriers"
+    ]
+  },
+  "icon-reload": {
+    "unicode": "",
+    "categories": [
+      "system"
+    ]
+  },
+  "icon-reports": {
+    "unicode": "",
     "categories": [
       "system"
     ]
   },
   "icon-resource-camera-cctv": {
-    "unicode": "",
-    "categories": [
-      "resource"
-    ]
-  },
-  "icon-resource-camera-safety": {
-    "unicode": "",
-    "categories": [
-      "resource"
-    ]
-  },
-  "icon-resource-detector-loop": {
     "unicode": "",
     "categories": [
       "resource"
     ]
   },
-  "icon-resource-display": {
+  "icon-resource-camera-safety": {
     "unicode": "",
     "categories": [
       "resource"
     ]
   },
-  "icon-resource-gantry": {
+  "icon-resource-detector-loop": {
     "unicode": "",
     "categories": [
       "resource"
     ]
   },
-  "icon-resource-gauge": {
+  "icon-resource-display": {
     "unicode": "",
     "categories": [
       "resource"
     ]
   },
-  "icon-resource-grounds": {
+  "icon-resource-gantry": {
     "unicode": "",
     "categories": [
       "resource"
     ]
   },
-  "icon-resource-house": {
+  "icon-resource-gauge": {
     "unicode": "",
     "categories": [
       "resource"
     ]
   },
-  "icon-resource-job": {
+  "icon-resource-grounds": {
     "unicode": "",
     "categories": [
       "resource"
     ]
   },
-  "icon-resource-road-cone": {
+  "icon-resource-house": {
     "unicode": "",
     "categories": [
       "resource"
     ]
   },
-  "icon-resource-telephone": {
+  "icon-resource-job": {
     "unicode": "",
     "categories": [
       "resource"
     ]
   },
-  "icon-resource-telephone-emergency": {
+  "icon-resource-road-cone": {
     "unicode": "",
     "categories": [
       "resource"
     ]
   },
-  "icon-resource-tools": {
+  "icon-resource-telephone": {
     "unicode": "",
     "categories": [
       "resource"
     ]
   },
-  "icon-resource-underbridge": {
+  "icon-resource-telephone-emergency": {
     "unicode": "",
     "categories": [
       "resource"
     ]
   },
-  "icon-resource-walkway": {
+  "icon-resource-tools": {
     "unicode": "",
     "categories": [
       "resource"
     ]
   },
-  "icon-resource-waste-point": {
+  "icon-resource-underbridge": {
     "unicode": "",
     "categories": [
       "resource"
     ]
   },
-  "icon-road-marking-top-simple": {
+  "icon-resource-walkway": {
     "unicode": "",
     "categories": [
-      "road"
+      "resource"
     ]
   },
-  "icon-road-markings": {
+  "icon-resource-waste-point": {
     "unicode": "",
     "categories": [
-      "road"
+      "resource"
     ]
   },
-  "icon-road-markings-1": {
+  "icon-road-marking-top-simple": {
     "unicode": "",
     "categories": [
       "road"
     ]
   },
-  "icon-road-markings-top": {
+  "icon-road-markings": {
     "unicode": "",
     "categories": [
       "road"
     ]
   },
-  "icon-route": {
+  "icon-road-markings-1": {
     "unicode": "",
     "categories": [
-      "route"
+      "road"
     ]
   },
-  "icon-route-finish": {
+  "icon-road-markings-top": {
     "unicode": "",
     "categories": [
-      "route"
+      "road"
     ]
   },
-  "icon-route-start": {
+  "icon-route": {
     "unicode": "",
     "categories": [
       "route"
     ]
   },
-  "icon-save": {
+  "icon-route-finish": {
     "unicode": "",
+    "categories": [
+      "route"
+    ]
+  },
+  "icon-route-start": {
+    "unicode": "",
+    "categories": [
+      "route"
+    ]
+  },
+  "icon-save": {
+    "unicode": "",
     "categories": [
       "system"
     ]
   },
   "icon-save-alt": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ]
   },
   "icon-schedule": {
-    "unicode": "",
-    "categories": [
-      "schedule"
-    ]
-  },
-  "icon-schedule-active": {
-    "unicode": "",
-    "categories": [
-      "schedule"
-    ]
-  },
-  "icon-schedule-canceled": {
     "unicode": "",
     "categories": [
       "schedule"
     ]
   },
-  "icon-schedule-date-time": {
+  "icon-schedule-active": {
     "unicode": "",
     "categories": [
       "schedule"
     ]
   },
-  "icon-schedule-done": {
+  "icon-schedule-canceled": {
     "unicode": "",
     "categories": [
       "schedule"
     ]
   },
-  "icon-schedule-empty": {
+  "icon-schedule-date-time": {
     "unicode": "",
     "categories": [
       "schedule"
     ]
   },
-  "icon-schedule-paused": {
+  "icon-schedule-done": {
     "unicode": "",
     "categories": [
       "schedule"
     ]
   },
-  "icon-schedule-retry": {
+  "icon-schedule-empty": {
     "unicode": "",
     "categories": [
       "schedule"
     ]
   },
-  "icon-schedule-timer": {
+  "icon-schedule-paused": {
     "unicode": "",
     "categories": [
       "schedule"
     ]
   },
-  "icon-search": {
+  "icon-schedule-retry": {
     "unicode": "",
     "categories": [
-      "system"
+      "schedule"
     ]
   },
-  "icon-search-empty": {
+  "icon-schedule-timer": {
     "unicode": "",
     "categories": [
-      "system"
+      "schedule"
     ]
   },
-  "icon-search-ids": {
+  "icon-search": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-search-location": {
+  "icon-search-empty": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-search-unknown": {
+  "icon-search-ids": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-search-zoom": {
+  "icon-search-location": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-search-zoomin": {
+  "icon-search-unknown": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-search-zoomout": {
+  "icon-search-zoom": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-shape-circle": {
+  "icon-search-zoomin": {
     "unicode": "",
     "categories": [
-      "shapes"
+      "system"
     ]
   },
-  "icon-shape-diamond": {
+  "icon-search-zoomout": {
     "unicode": "",
     "categories": [
-      "shapes"
+      "system"
     ]
   },
-  "icon-shape-octagon": {
+  "icon-shape-circle": {
     "unicode": "",
     "categories": [
       "shapes"
     ]
   },
-  "icon-shape-square": {
+  "icon-shape-diamond": {
     "unicode": "",
     "categories": [
       "shapes"
     ]
   },
-  "icon-shape-trapezoid": {
+  "icon-shape-octagon": {
     "unicode": "",
     "categories": [
       "shapes"
     ]
   },
-  "icon-shape-triangle": {
+  "icon-shape-square": {
     "unicode": "",
     "categories": [
       "shapes"
     ]
   },
-  "icon-sign": {
+  "icon-shape-trapezoid": {
     "unicode": "",
     "categories": [
-      "signs"
+      "shapes"
     ]
   },
-  "icon-sign-arrow-bend": {
+  "icon-shape-triangle": {
     "unicode": "",
     "categories": [
-      "signs"
+      "shapes"
     ]
   },
-  "icon-sign-arrow-down": {
+  "icon-sign": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-arrow-left": {
+  "icon-sign-arrow-bend": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-arrow-left-short": {
+  "icon-sign-arrow-down": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-arrow-right": {
+  "icon-sign-arrow-left": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-arrow-roundebound": {
+  "icon-sign-arrow-left-short": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-arrow-straight": {
+  "icon-sign-arrow-right": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-arrow-turn-left": {
+  "icon-sign-arrow-roundebound": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-arrow-turn-right": {
+  "icon-sign-arrow-straight": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-arrow-two-lanes": {
+  "icon-sign-arrow-turn-left": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-arrow-two-ways": {
+  "icon-sign-arrow-turn-right": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-bridge": {
+  "icon-sign-arrow-two-lanes": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-bumpy-road": {
+  "icon-sign-arrow-two-ways": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-cameras": {
+  "icon-sign-bridge": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-car": {
+  "icon-sign-bumpy-road": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-circular-arrow-diagonal": {
+  "icon-sign-cameras": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-circular-arrow-left": {
+  "icon-sign-car": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-circular-arrow-up": {
+  "icon-sign-circular-arrow-diagonal": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-circular-cross": {
+  "icon-sign-circular-arrow-left": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-circular-go": {
+  "icon-sign-circular-arrow-up": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-circular-no-entry": {
+  "icon-sign-circular-cross": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-circular-no-stop": {
+  "icon-sign-circular-go": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-circular-ring": {
+  "icon-sign-circular-no-entry": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-circular-speed-10": {
+  "icon-sign-circular-no-stop": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-circular-speed-100": {
+  "icon-sign-circular-ring": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-circular-speed-110": {
+  "icon-sign-circular-speed-10": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-circular-speed-120": {
+  "icon-sign-circular-speed-100": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-circular-speed-130": {
+  "icon-sign-circular-speed-110": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-circular-speed-20": {
+  "icon-sign-circular-speed-120": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-circular-speed-30": {
+  "icon-sign-circular-speed-130": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-circular-speed-40": {
+  "icon-sign-circular-speed-20": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-circular-speed-50": {
+  "icon-sign-circular-speed-30": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-circular-speed-60": {
+  "icon-sign-circular-speed-40": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-circular-speed-70": {
+  "icon-sign-circular-speed-50": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-circular-speed-80": {
+  "icon-sign-circular-speed-60": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-circular-speed-90": {
+  "icon-sign-circular-speed-70": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-circular-stop": {
+  "icon-sign-circular-speed-80": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-crossroad": {
+  "icon-sign-circular-speed-90": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-danger": {
+  "icon-sign-circular-stop": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-direction": {
+  "icon-sign-crossroad": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-highvoltage": {
+  "icon-sign-danger": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-humps": {
+  "icon-sign-direction": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-illlum": {
+  "icon-sign-highvoltage": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-lanes": {
+  "icon-sign-humps": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-lowbridge": {
+  "icon-sign-illlum": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-mot": {
+  "icon-sign-lanes": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-narrowroad": {
+  "icon-sign-lowbridge": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-sqare-disabled": {
+  "icon-sign-mot": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-sqare-exit": {
+  "icon-sign-narrowroad": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-sqare-information": {
+  "icon-sign-sqare-disabled": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-sqare-no-through-road": {
+  "icon-sign-sqare-exit": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-sqare-parking": {
+  "icon-sign-sqare-information": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-stop": {
+  "icon-sign-sqare-no-through-road": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-subway": {
+  "icon-sign-sqare-parking": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-triangle-down": {
+  "icon-sign-stop": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-triangle-samesides": {
+  "icon-sign-subway": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-sign-triangle-up": {
+  "icon-sign-triangle-down": {
     "unicode": "",
     "categories": [
       "signs"
     ]
   },
-  "icon-stairs-iso": {
+  "icon-sign-triangle-samesides": {
     "unicode": "",
     "categories": [
-      "barriers"
+      "signs"
     ]
   },
-  "icon-stairs-man": {
+  "icon-sign-triangle-up": {
     "unicode": "",
     "categories": [
-      "barriers"
+      "signs"
     ]
   },
-  "icon-stairs-shape": {
+  "icon-stairs-iso": {
     "unicode": "",
     "categories": [
       "barriers"
     ]
   },
-  "icon-stairs-simple": {
+  "icon-stairs-man": {
     "unicode": "",
     "categories": [
       "barriers"
     ]
   },
-  "icon-stl-beacon": {
+  "icon-stairs-shape": {
     "unicode": "",
     "categories": [
-      "lighting"
+      "barriers"
     ]
   },
-  "icon-stl-bollard": {
+  "icon-stairs-simple": {
     "unicode": "",
     "categories": [
-      "bollards"
+      "barriers"
     ]
   },
-  "icon-stl-component-bracket": {
+  "icon-stl-beacon": {
     "unicode": "",
     "categories": [
       "lighting"
     ]
   },
-  "icon-stl-component-capacitator": {
+  "icon-stl-bollard": {
     "unicode": "",
     "categories": [
-      "lighting"
+      "bollards"
     ]
   },
-  "icon-stl-component-column": {
+  "icon-stl-component-bracket": {
     "unicode": "",
     "categories": [
       "lighting"
     ]
   },
-  "icon-stl-component-controller": {
+  "icon-stl-component-capacitator": {
     "unicode": "",
     "categories": [
       "lighting"
     ]
   },
-  "icon-stl-component-gear": {
+  "icon-stl-component-column": {
     "unicode": "",
     "categories": [
       "lighting"
     ]
   },
-  "icon-stl-component-lantern": {
+  "icon-stl-component-controller": {
     "unicode": "",
     "categories": [
       "lighting"
     ]
   },
-  "icon-stl-component-sensor": {
+  "icon-stl-component-gear": {
     "unicode": "",
     "categories": [
       "lighting"
     ]
   },
-  "icon-stl-component-sensorcrtl": {
+  "icon-stl-component-lantern": {
     "unicode": "",
     "categories": [
       "lighting"
     ]
   },
-  "icon-stl-component-signal-sensor": {
+  "icon-stl-component-sensor": {
     "unicode": "",
     "categories": [
       "lighting"
     ]
   },
-  "icon-stl-feederpillar": {
+  "icon-stl-component-sensorcrtl": {
     "unicode": "",
     "categories": [
       "lighting"
     ]
   },
-  "icon-stl-lamp": {
+  "icon-stl-component-signal-sensor": {
     "unicode": "",
     "categories": [
       "lighting"
     ]
   },
-  "icon-stl-other": {
+  "icon-stl-feederpillar": {
     "unicode": "",
     "categories": [
       "lighting"
     ]
   },
-  "icon-stl-subway": {
+  "icon-stl-lamp": {
     "unicode": "",
     "categories": [
       "lighting"
     ]
   },
-  "icon-structure-base": {
+  "icon-stl-other": {
     "unicode": "",
     "categories": [
-      "structure"
+      "lighting"
     ]
   },
-  "icon-structure-branch": {
+  "icon-stl-subway": {
     "unicode": "",
     "categories": [
-      "structure"
+      "lighting"
     ]
   },
-  "icon-structure-childrens": {
+  "icon-structure-base": {
     "unicode": "",
     "categories": [
       "structure"
     ]
   },
-  "icon-structure-component": {
+  "icon-structure-branch": {
     "unicode": "",
     "categories": [
       "structure"
     ]
   },
-  "icon-structure-disconnected": {
+  "icon-structure-childrens": {
     "unicode": "",
     "categories": [
       "structure"
     ]
   },
-  "icon-structure-exchange-horizontal": {
+  "icon-structure-component": {
     "unicode": "",
     "categories": [
       "structure"
     ]
   },
-  "icon-structure-exchange-vertical": {
+  "icon-structure-disconnected": {
     "unicode": "",
     "categories": [
       "structure"
     ]
   },
-  "icon-structure-hierarchy": {
+  "icon-structure-exchange-horizontal": {
     "unicode": "",
     "categories": [
       "structure"
     ]
   },
-  "icon-structure-join": {
+  "icon-structure-exchange-vertical": {
     "unicode": "",
     "categories": [
       "structure"
     ]
   },
-  "icon-structure-n": {
+  "icon-structure-hierarchy": {
     "unicode": "",
     "categories": [
       "structure"
     ]
   },
-  "icon-structure-parallel": {
+  "icon-structure-join": {
     "unicode": "",
     "categories": [
       "structure"
     ]
   },
-  "icon-structure-parallel-join": {
+  "icon-structure-n": {
     "unicode": "",
     "categories": [
       "structure"
     ]
   },
-  "icon-structure-parallel-merge": {
+  "icon-structure-parallel": {
     "unicode": "",
     "categories": [
       "structure"
     ]
   },
-  "icon-structure-parent": {
+  "icon-structure-parallel-join": {
     "unicode": "",
     "categories": [
       "structure"
     ]
   },
-  "icon-structure-relationship": {
+  "icon-structure-parallel-merge": {
     "unicode": "",
     "categories": [
       "structure"
     ]
   },
-  "icon-structure-simple": {
+  "icon-structure-parent": {
     "unicode": "",
     "categories": [
       "structure"
     ]
   },
-  "icon-structure-tree": {
+  "icon-structure-relationship": {
     "unicode": "",
     "categories": [
       "structure"
     ]
   },
-  "icon-system": {
+  "icon-structure-simple": {
     "unicode": "",
     "categories": [
-      "system"
+      "structure"
     ]
   },
-  "icon-system-1": {
+  "icon-structure-tree": {
     "unicode": "",
     "categories": [
-      "system"
+      "structure"
     ]
   },
-  "icon-system-2": {
+  "icon-system": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-system-404": {
+  "icon-system-1": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-system-404-alt": {
+  "icon-system-2": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-system-basemap": {
+  "icon-system-404": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-system-circle-thin": {
+  "icon-system-404-alt": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-system-designer": {
+  "icon-system-basemap": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-system-epic-fail": {
+  "icon-system-circle-thin": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-system-item-collection": {
+  "icon-system-designer": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-system-label": {
+  "icon-system-epic-fail": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-system-layers": {
+  "icon-system-item-collection": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-system-lost": {
+  "icon-system-label": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-system-mic": {
+  "icon-system-layers": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-system-resource": {
+  "icon-system-lost": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-system-success": {
+  "icon-system-mic": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-system-webhook": {
+  "icon-system-resource": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-system-workflow": {
+  "icon-system-success": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-tasks-check": {
+  "icon-system-webhook": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-tasks-list": {
+  "icon-system-workflow": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-tool-cut": {
+  "icon-tasks-check": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-tool-eraser": {
+  "icon-tasks-list": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-tool-eraser1": {
+  "icon-tool-cut": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-tool-eraser2": {
+  "icon-tool-eraser": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-tool-line": {
+  "icon-tool-eraser1": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-tool-object-line": {
+  "icon-tool-eraser2": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-tool-object-line-empty": {
+  "icon-tool-line": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-tool-object-point": {
+  "icon-tool-object-line": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-tool-object-point-empty": {
+  "icon-tool-object-line-empty": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-tool-object-polygon": {
+  "icon-tool-object-point": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-tool-object-polygon-empty": {
+  "icon-tool-object-point-empty": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-tool-object-square": {
+  "icon-tool-object-polygon": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-tool-object-square-empty": {
+  "icon-tool-object-polygon-empty": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-tool-point": {
+  "icon-tool-object-square": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-tool-polygon": {
+  "icon-tool-object-square-empty": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-tool-polygonal-select": {
+  "icon-tool-point": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-tool-ruler": {
+  "icon-tool-polygon": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-tool-siccors": {
+  "icon-tool-polygonal-select": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-traffic-calming": {
+  "icon-tool-ruler": {
     "unicode": "",
     "categories": [
-      "traffic"
+      "system"
     ]
   },
-  "icon-traffic-chicane": {
+  "icon-tool-siccors": {
     "unicode": "",
     "categories": [
-      "traffic"
+      "system"
     ]
   },
-  "icon-traffic-ditch": {
+  "icon-traffic-calming": {
     "unicode": "",
     "categories": [
       "traffic"
     ]
   },
-  "icon-traffic-hump": {
+  "icon-traffic-chicane": {
     "unicode": "",
     "categories": [
       "traffic"
     ]
   },
-  "icon-traffic-light-double": {
+  "icon-traffic-ditch": {
     "unicode": "",
     "categories": [
       "traffic"
     ]
   },
-  "icon-traffic-light-lantern": {
+  "icon-traffic-hump": {
     "unicode": "",
     "categories": [
       "traffic"
     ]
   },
-  "icon-traffic-light-triple": {
+  "icon-traffic-light-double": {
     "unicode": "",
     "categories": [
       "traffic"
     ]
   },
-  "icon-traffic-speedcushion": {
+  "icon-traffic-light-lantern": {
     "unicode": "",
     "categories": [
       "traffic"
     ]
   },
-  "icon-traffic-speedhump": {
+  "icon-traffic-light-triple": {
     "unicode": "",
     "categories": [
       "traffic"
     ]
   },
-  "icon-train": {
+  "icon-traffic-speedcushion": {
     "unicode": "",
+    "categories": [
+      "traffic"
+    ]
+  },
+  "icon-traffic-speedhump": {
+    "unicode": "",
+    "categories": [
+      "traffic"
+    ]
+  },
+  "icon-train": {
+    "unicode": "",
     "categories": [
       "crossing"
     ]
   },
   "icon-transport-bicycle": {
-    "unicode": "",
-    "categories": [
-      "transport"
-    ]
-  },
-  "icon-transport-bus": {
-    "unicode": "",
-    "categories": [
-      "transport"
-    ]
-  },
-  "icon-transport-car": {
     "unicode": "",
     "categories": [
       "transport"
     ]
   },
-  "icon-transport-motorcycle": {
+  "icon-transport-bus": {
     "unicode": "",
     "categories": [
       "transport"
     ]
   },
-  "icon-transport-plane": {
+  "icon-transport-car": {
     "unicode": "",
     "categories": [
       "transport"
     ]
   },
-  "icon-transport-ship": {
+  "icon-transport-motorcycle": {
     "unicode": "",
     "categories": [
       "transport"
     ]
   },
-  "icon-transport-train": {
+  "icon-transport-plane": {
     "unicode": "",
     "categories": [
       "transport"
     ]
   },
-  "icon-transport-tram": {
+  "icon-transport-ship": {
     "unicode": "",
     "categories": [
       "transport"
     ]
   },
-  "icon-transport-truck": {
+  "icon-transport-train": {
     "unicode": "",
     "categories": [
       "transport"
     ]
   },
-  "icon-tree-enviromental-structure": {
+  "icon-transport-tram": {
     "unicode": "",
     "categories": [
-      "greenery"
+      "transport"
     ]
   },
-  "icon-tree-grassed-area": {
+  "icon-transport-truck": {
     "unicode": "",
     "categories": [
-      "greenery"
+      "transport"
     ]
   },
-  "icon-tree-hedge": {
+  "icon-tree-enviromental-structure": {
     "unicode": "",
     "categories": [
       "greenery"
     ]
   },
-  "icon-tree-leaf": {
+  "icon-tree-grassed-area": {
     "unicode": "",
     "categories": [
       "greenery"
     ]
   },
-  "icon-tree-leaf-average": {
+  "icon-tree-hedge": {
     "unicode": "",
     "categories": [
       "greenery"
     ]
   },
-  "icon-tree-leaf-old": {
+  "icon-tree-leaf": {
     "unicode": "",
     "categories": [
       "greenery"
     ]
   },
-  "icon-tree-leaf-small": {
+  "icon-tree-leaf-average": {
     "unicode": "",
     "categories": [
       "greenery"
     ]
   },
-  "icon-tree-palm": {
+  "icon-tree-leaf-old": {
     "unicode": "",
     "categories": [
       "greenery"
     ]
   },
-  "icon-tree-pine-old": {
+  "icon-tree-leaf-small": {
     "unicode": "",
     "categories": [
       "greenery"
     ]
   },
-  "icon-tree-pine-small": {
+  "icon-tree-palm": {
     "unicode": "",
     "categories": [
       "greenery"
     ]
   },
-  "icon-tree-planter": {
+  "icon-tree-pine-old": {
     "unicode": "",
     "categories": [
       "greenery"
     ]
   },
-  "icon-tree-treed-area": {
+  "icon-tree-pine-small": {
     "unicode": "",
     "categories": [
       "greenery"
     ]
   },
-  "icon-tree-vegetation": {
+  "icon-tree-planter": {
     "unicode": "",
     "categories": [
       "greenery"
     ]
   },
-  "icon-unit-area": {
+  "icon-tree-treed-area": {
     "unicode": "",
     "categories": [
-      "unit"
+      "greenery"
     ]
   },
-  "icon-unit-length": {
+  "icon-tree-vegetation": {
     "unicode": "",
     "categories": [
-      "unit"
+      "greenery"
     ]
   },
-  "icon-unit-per-unit": {
+  "icon-unit-area": {
     "unicode": "",
     "categories": [
       "unit"
     ]
   },
-  "icon-unit-time": {
+  "icon-unit-length": {
     "unicode": "",
     "categories": [
       "unit"
     ]
   },
-  "icon-unit-volume": {
+  "icon-unit-per-unit": {
     "unicode": "",
     "categories": [
       "unit"
     ]
   },
-  "icon-upload": {
+  "icon-unit-time": {
     "unicode": "",
     "categories": [
-      "system"
+      "unit"
     ]
   },
-  "icon-user": {
+  "icon-unit-volume": {
     "unicode": "",
     "categories": [
-      "system"
+      "unit"
     ]
   },
-  "icon-user-admin": {
+  "icon-upload": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-user-approved": {
+  "icon-user": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-user-block": {
+  "icon-user-admin": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-user-bot": {
+  "icon-user-approved": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-user-bot-sad": {
+  "icon-user-block": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-user-copy-from-user": {
+  "icon-user-bot": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-user-lock": {
+  "icon-user-bot-sad": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-user-new-permissions": {
+  "icon-user-copy-from-user": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-user-team": {
+  "icon-user-lock": {
     "unicode": "",
     "categories": [
       "system"
     ]
   },
-  "icon-variable-a": {
+  "icon-user-new-permissions": {
     "unicode": "",
     "categories": [
-      "math"
+      "system"
     ]
   },
-  "icon-variable-b": {
+  "icon-user-team": {
     "unicode": "",
     "categories": [
-      "math"
+      "system"
     ]
   },
-  "icon-variable-c": {
+  "icon-variable-a": {
     "unicode": "",
     "categories": [
       "math"
     ]
   },
-  "icon-variable-x": {
+  "icon-variable-b": {
     "unicode": "",
     "categories": [
       "math"
     ]
   },
-  "icon-variable-y": {
+  "icon-variable-c": {
     "unicode": "",
     "categories": [
       "math"
     ]
   },
-  "icon-variable-z": {
+  "icon-variable-x": {
     "unicode": "",
+    "categories": [
+      "math"
+    ]
+  },
+  "icon-variable-y": {
+    "unicode": "",
+    "categories": [
+      "math"
+    ]
+  },
+  "icon-variable-z": {
+    "unicode": "",
     "categories": [
       "math"
     ]
