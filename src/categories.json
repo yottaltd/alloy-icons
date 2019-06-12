@@ -3,6 +3,8 @@
     {
       "key": "general",
       "icons": [
+        "assisted",
+        "assisted-alt",
         "bench",
         "bridge-overbridge",
         "bridge",
@@ -66,7 +68,8 @@
         "misc-warning",
         "misc-watch",
         "misc-wind-turbine",
-        "playarea"
+        "playarea",
+        "job-work-item"
         
       ]
     },
@@ -74,7 +77,7 @@
       "key": "arrows",
       "icons": [
         "arrow-left",
-        "arrow-long-change-horizontal",
+        "arrow-long-change-horz",
         "arrow-long-change-vertical",
         "arrow-long-down",
         "arrow-long-left",
@@ -100,10 +103,10 @@
         "arrow-triangle-thin-down",
         "arrow-triangle-thin-forward",
         "arrow-triangle-thin-left",
-        "arrow-triangle-thin-leftright",
+        "arrow-triangle-thin-lr",
         "arrow-triangle-thin-right",
         "arrow-triangle-thin-up",
-        "arrow-triangle-thin-upanddown",
+        "arrow-triangle-thin-ud",
         "arrow-triangle-trin-rewind",
         "arrow-triangle-up",
         "arrow-triangle-upanddown",
@@ -197,7 +200,7 @@
       "key": "crossing",
       "icons": [
         "crossing-lines",
-        "crossing-pedestrian-perspective",
+        "crossing-pedestrian-pov",
         "crossing-pedestrian-top",
         "crossing-pedestrian-walking",
         "crossing-road-top",
@@ -411,7 +414,7 @@
       "icons": [
         "network-highway",
         "network-road",
-        "network-structure-iso-bottom",
+        "network-structure-iso-lower",
         "network-structure-iso-top",
         "network-structure-middle",
         "network-structure-top",
@@ -514,7 +517,7 @@
         "resource-house",
         "resource-job",
         "resource-road-cone",
-        "resource-telephone-emergency",
+        "resource-telephone-emerg",
         "resource-telephone",
         "resource-tools",
         "resource-underbridge",
@@ -596,7 +599,7 @@
         "sign-bumpy-road",
         "sign-cameras",
         "sign-car",
-        "sign-circular-arrow-diagonal",
+        "sign-circular-arrow-diag",
         "sign-circular-arrow-left",
         "sign-circular-arrow-up",
         "sign-circular-cross",
@@ -649,7 +652,7 @@
         "structure-childrens",
         "structure-component",
         "structure-disconnected",
-        "structure-exchange-horizontal",
+        "structure-exchange-horz",
         "structure-exchange-vertical",
         "structure-hierarchy",
         "structure-join",
@@ -777,6 +780,7 @@
         "tool-object-square",
         "tool-point",
         "tool-polygon",
+        "tool-polygon-alt",
         "tool-polygonal-select",
         "tool-ruler",
         "tool-siccors",
