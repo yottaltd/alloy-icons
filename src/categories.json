@@ -5,13 +5,12 @@
       "icons": [
         "assisted",
         "assisted-alt",
+        "barcode",
         "bench",
         "bridge-overbridge",
         "bridge",
         "culvert",
         "disabled",
-        "kerb-perspective",
-        "kerb-profile",
         "misc-archive",
         "misc-archived",
         "misc-backspace",
@@ -69,8 +68,9 @@
         "misc-watch",
         "misc-wind-turbine",
         "playarea",
-        "job-work-item"
-        
+        "job-work-item",
+        "qr-code",
+        "status-blank"
       ]
     },
     {
@@ -118,11 +118,9 @@
       "key": "barriers",
       "icons": [
         "barrier-double",
-        "barrier-fence-little",
         "barrier-fence",
         "barrier-gate",
         "barrier-single",
-        "barrier-temporary-single",
         "barrier-temporary",
         "fence-gate-08",
         "fence-gate",
@@ -145,7 +143,6 @@
         "bin-full",
         "bin-grit",
         "bin-recycle-small",
-        "bin-recycle-wheels",
         "bin-recycle",
         "bin-storage",
         "bin"
@@ -153,31 +150,17 @@
     },
     {
       "key": "bollards",
-      "icons": [
-        "bollard-directional",
-        "bollard-illuminated",
-        "bollard-markerpost",
-        "bollard-safety",
-        "stl-bollard"
-      ]
+      "icons": ["bollard-directional", "bollard-illuminated", "bollard-safety", "stl-bollard"]
     },
     {
       "key": "budgets",
-      "icons": [
-        "budgets-bag-coins",
-        "budgets-bag-important",
-        "budgets-bag-star",
-        "budgets-bag",
-        "budgets-money",
-        "budgets"
-      ]
+      "icons": ["budgets-bag-star", "budgets-bag", "budgets-money", "budgets"]
     },
     {
       "key": "buildings",
       "icons": [
         "buildings-building",
         "buildings-factory",
-        "buildings-factory1",
         "buildings-sport-pitch",
         "buildings-store"
       ]
@@ -200,10 +183,8 @@
       "key": "crossing",
       "icons": [
         "crossing-lines",
-        "crossing-pedestrian-pov",
         "crossing-pedestrian-top",
         "crossing-pedestrian-walking",
-        "crossing-road-top",
         "crossing-train",
         "train"
       ]
@@ -233,30 +214,22 @@
     {
       "key": "greenery",
       "icons": [
-        "leaves-acicular",
-        "leaves-acuminate",
         "leaves-alternate",
         "leaves-arcuate",
         "leaves-aristate",
         "leaves-bipinnate",
         "leaves-cordate",
-        "leaves-crenate",
         "leaves-cuneate-copy",
         "leaves-cuneate",
         "leaves-dentate",
-        "leaves-denticulate",
         "leaves-dichotomous",
         "leaves-digitate",
         "leaves-doubly-serrate",
-        "leaves-elliptic",
-        "leaves-entire",
         "leaves-evenpinnate",
         "leaves-falcate",
         "leaves-flabellate",
         "leaves-hastate",
         "leaves-lanceolate",
-        "leaves-linear",
-        "leaves-lobate",
         "leaves-lobed",
         "leaves-longitudinal",
         "leaves-obcordate",
@@ -267,26 +240,17 @@
         "leaves-ovate",
         "leaves-palmate-10",
         "leaves-palmate-41",
-        "leaves-parallel",
         "leaves-pedate",
         "leaves-pinnate-24",
         "leaves-pinnate-43",
         "leaves-pinnatisect",
-        "leaves-reniform",
-        "leaves-reticulate",
         "leaves-rhomboid",
         "leaves-rotate",
         "leaves-serrate",
-        "leaves-serrulate",
         "leaves-sinuate",
         "leaves-spatulate",
         "leaves-spearshaped",
-        "leaves-spiny",
-        "leaves-subulate",
         "leaves-trifoliate",
-        "leaves-tripinnate",
-        "leaves-truncate",
-        "leaves-undulate",
         "leaves-unfoliate",
         "leaves-venulate",
         "tree-enviromental-structure",
@@ -327,7 +291,6 @@
       "key": "lighting",
       "icons": [
         "bulb-energy-off",
-        "bulb-energy-on",
         "bulb-led-off",
         "bulb-led-on",
         "bulb-off",
@@ -380,14 +343,13 @@
     {
       "key": "math",
       "icons": [
+        "and-gate",
         "condition-equals",
         "condition-great",
         "condition-greater-equals",
         "condition-less-equals",
         "condition-less",
         "math-ab",
-        "math-all",
-        "math-any",
         "math-approximate",
         "math-brackets",
         "math-hash",
@@ -396,6 +358,7 @@
         "math-sum",
         "math-text",
         "math-tilde",
+        "or-gate",
         "operator-divide",
         "operator-minus",
         "operator-multiply",
@@ -417,10 +380,6 @@
         "network-structure-iso-lower",
         "network-structure-iso-top",
         "network-structure-middle",
-        "network-structure-top",
-        "network-surface-bottom",
-        "network-surface-middle",
-        "network-surface",
         "network"
       ]
     },
@@ -455,7 +414,6 @@
     {
       "key": "parking",
       "icons": [
-        "parking-bay-small",
         "parking-bay",
         "parking-enforcement",
         "parking-meter-simple",
@@ -520,7 +478,6 @@
         "resource-telephone-emerg",
         "resource-telephone",
         "resource-tools",
-        "resource-underbridge",
         "resource-walkway",
         "resource-waste-point"
       ]
@@ -529,12 +486,9 @@
       "key": "road",
       "icons": [
         "footway-tacticle",
-        "intersection-closure",
         "intersection-outline",
         "intersection",
-        "intesection-simple",
         "lanes-acceleration",
-        "lanes-direction",
         "lanes-double",
         "lanes-perspective",
         "lanes-top",
@@ -550,11 +504,7 @@
     },
     {
       "key": "route",
-      "icons": [
-        "route-finish",
-        "route-start",
-        "route"
-      ]
+      "icons": ["route-finish", "route-start", "route"]
     },
     {
       "key": "schedule",
@@ -635,7 +585,6 @@
         "sign-sqare-exit",
         "sign-sqare-information",
         "sign-sqare-no-through-road",
-        "sign-sqare-parking",
         "sign-stop",
         "sign-subway",
         "sign-triangle-down",
@@ -669,6 +618,7 @@
     {
       "key": "system",
       "icons": [
+        "aqs-builder",
         "close",
         "close-small",
         "collection-card",
@@ -736,6 +686,7 @@
         "lock",
         "misc-attachment",
         "misc-graph-display",
+        "pathfinder",
         "reports",
         "search-empty",
         "search-ids",
@@ -756,7 +707,6 @@
         "system-item-collection",
         "system-label",
         "system-layers",
-        "system-lost",
         "system-mic",
         "system-resource",
         "system-success",
@@ -779,6 +729,10 @@
         "tool-object-square-empty",
         "tool-object-square",
         "tool-point",
+        "tool-multi-point",
+        "tool-multi-line",
+        "tool-multi-polygon",
+        "tool-geom-collection",
         "tool-polygon",
         "tool-polygon-alt",
         "tool-polygonal-select",
@@ -792,6 +746,7 @@
         "user-copy-from-user",
         "user-lock",
         "user-new-permissions",
+        "user-power",
         "user-team",
         "user",
         "copy-to-clipboard",
@@ -801,8 +756,6 @@
         "misc-share",
         "misc-subscription",
         "upload"
-
-
       ]
     },
     {
@@ -822,15 +775,11 @@
     {
       "key": "transport",
       "icons": [
-        "bike-crossing",
-        "bike-guard",
         "bike-hire",
         "bike-line",
         "bike-pump",
         "bike-rack",
-        "bike-track",
         "bike",
-        "bus-lane-2",
         "bus-lane",
         "bus-shelter",
         "bus-stop",
@@ -848,13 +797,7 @@
     },
     {
       "key": "unit",
-      "icons": [
-        "unit-area",
-        "unit-length",
-        "unit-per-unit",
-        "unit-time",
-        "unit-volume"
-      ]
+      "icons": ["unit-area", "unit-length", "unit-per-unit", "unit-time", "unit-volume"]
     }
   ]
 }

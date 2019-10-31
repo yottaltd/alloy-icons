@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>and-gate</title>
+    <desc>Created with Sketch.</desc>
+    <g id="and-gate" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M32.6666667,13 C42.3123846,13 50.2493417,20.4467188 51.2311598,30.0000929 L58,30 L58,34 L51.231057,34.0009069 C50.2601997,43.4428175 42.4955238,50.8266993 33.0021399,50.9969933 L32.6666667,51 L14,51 L14,43.5 L6,43.5 L6,39.5 L14,39.5 L14,24.5 L6,24.5 L6,20.5 L14,20.5 L14,13 L32.6666667,13 Z" id="Path" fill="#000000"></path>
+    </g>
+</svg>

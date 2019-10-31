@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
     <title>upload</title>
     <desc>Created with Sketch.</desc>
     <g id="upload" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M30,13.6568542 L30,42.6066017 L34,42.6066017 L34,13.6568542 L39.7781746,19.4350288 L42.6066017,16.6066017 L32,6 L21.3933983,16.6066017 L24.2218254,19.4350288 L30,13.6568542 Z M54,30 L58,30 L58,58 L6,58 L6,30 L10,30 L10,54 L54,54 L54,30 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M53,52 L53,58 L11,58 L11,52 L53,52 Z M32,6 L46.8492424,20.8492424 L42.6066017,25.0918831 L35.9997576,18.485 L36,43.8492424 L28,43.8492424 L27.9997576,18.485 L21.3933983,25.0918831 L17.1507576,20.8492424 L32,6 Z" id="Shape" fill="#000000"></path>
     </g>
 </svg>

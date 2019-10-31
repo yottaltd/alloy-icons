@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
     <title>save</title>
     <desc>Created with Sketch.</desc>
     <g id="save" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M30,34.9497475 L30,6 L34,6 L34,34.9497475 L39.7781746,29.1715729 L42.6066017,32 L32,42.6066017 L21.3933983,32 L24.2218254,29.1715729 L30,34.9497475 Z M54,30 L58,30 L58,58 L6,58 L6,30 L10,30 L10,54 L54,54 L54,30 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M53,52 L53,58 L11,58 L11,52 L53,52 Z M36,6 L35.9997576,31.863 L42.6066017,25.2573593 L46.8492424,29.5 L32,44.3492424 L17.1507576,29.5 L21.3933983,25.2573593 L27.9997576,31.863 L28,6 L36,6 Z" id="Combined-Shape" fill="#000000"></path>
     </g>
 </svg>

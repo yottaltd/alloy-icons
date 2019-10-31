@@ -27,13 +27,13 @@ if (!fs.existsSync(svgDirectory)) {
 
 console.log('starting webfont processing...');
 webfont({
-    files,
-    fontName: 'alloyicons',
-    template: 'css',
-    templateClassName: 'icon',
-    fontHeight: 500,
-    normalize: true,
-  })
+  files,
+  fontName: 'alloyicons',
+  template: 'css',
+  templateClassName: 'icon',
+  fontHeight: 128,
+  normalize: true,
+})
   .then((result) => {
     console.log('webfonts processed!');
 
