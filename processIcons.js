@@ -81,8 +81,7 @@ webfont({
 
     console.log('creating IconUtils.ts...');
     const iconUtilsOutputFile = path.join(buildDirectory, 'IconUtils.ts');
-    const iconUtilsOutputFileIndex = path.join(buildDirectory, 'index.ts');
-    generateIconUtils(result.glyphsData, iconUtilsOutputFile, iconUtilsOutputFileIndex);
+    generateIconUtils(result.glyphsData, iconUtilsOutputFile);
 
     // clean the output directories if we have one
     if (fs.existsSync(outputDirectory)) {
@@ -109,10 +108,6 @@ webfont({
     fs.copyFileSync(
       iconUtilsOutputFile,
       path.join(outputTypescriptDirectory, path.basename(iconUtilsOutputFile)),
-    );
-    fs.copyFileSync(
-      iconUtilsOutputFileIndex,
-      path.join(outputTypescriptDirectory, path.basename(iconUtilsOutputFileIndex)),
     );
 
     console.log('alloy icons generated!');
@@ -207,7 +202,7 @@ function generateIconsJson(glyphs, iconsJsonFile) {
   fs.writeFileSync(iconsJsonFile, JSON.stringify(json, null, 2));
 }
 
-function generateIconUtils(glyphs, iconUtilsOutputFile, iconUtilsOutputFileIndex) {
+function generateIconUtils(glyphs, iconUtilsOutputFile) {
   // array of category objects with metadata about the categories e.g. property name, icons included
   // in the category and a stringified dictionary entry for the CATEGORIES map
   const categories = [];
@@ -290,7 +285,7 @@ function generateIconUtils(glyphs, iconUtilsOutputFile, iconUtilsOutputFileIndex
 
   fs.writeFileSync(
     iconUtilsOutputFile,
-    `// tslint:disable
+    `/* eslint-disable */
 // WARNING: this file is auto generated, do not modify manually, see: ./tools/icon-font-generator
 import chalk from 'chalk';
 
@@ -316,7 +311,7 @@ export abstract class IconUtils {
       return IconUtils.ICONS.get(iconKey)!;
     } else {
       const message = 'icon with key "' + iconKey + '" requested but no definition found';
-      // tslint:disable-next-line:no-console
+      // eslint-disable-next-line max-len
       console.warn(chalk.yellow(message));
       return new IconMetadata(iconKey, '', []);
     }
@@ -325,12 +320,6 @@ export abstract class IconUtils {
   public static readonly CATEGORIES: Readonly<Map<string, IconMetadata[]>> = new Map(${categoriesMap});
   public static readonly ICONS: Readonly<Map<string, IconMetadata>> = new Map(${iconsMap});
 }
-`,
-  );
-  fs.writeFileSync(
-    iconUtilsOutputFileIndex,
-    `// tslint:disable
-export * from './IconUtils';
 `,
   );
 }

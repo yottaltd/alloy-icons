@@ -1,4 +1,4 @@
-// tslint:disable
+/* eslint-disable */
 // WARNING: this file is auto generated, do not modify manually, see: ./tools/icon-font-generator
 import chalk from 'chalk';
 
@@ -713,7 +713,7 @@ export abstract class IconUtils {
       return IconUtils.ICONS.get(iconKey)!;
     } else {
       const message = 'icon with key "' + iconKey + '" requested but no definition found';
-      // tslint:disable-next-line:no-console
+      // eslint-disable-next-line max-len
       console.warn(chalk.yellow(message));
       return new IconMetadata(iconKey, '', []);
     }
