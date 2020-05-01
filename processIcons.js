@@ -9,12 +9,14 @@ const webfont = require('webfont').default;
 
 const workingDirectory = './';
 const categoriesJsonFile = './src/categories.json';
+const descriptionsJsonFile = './src/descriptions.json';
 const svgDirectory = './src/svgs';
 const outputDirectory = './dist';
 const outputTypescriptDirectory = './dist/typescript';
 const outputMobileDirectory = './dist/mobile';
 
 const categoriesJson = JSON.parse(fs.readFileSync(categoriesJsonFile, 'utf-8'));
+const descriptionsJson = JSON.parse(fs.readFileSync(descriptionsJsonFile, 'utf-8'));
 
 const files = path.join(svgDirectory, '**/*.svg');
 const buildDirectory = path.join(workingDirectory, '.build');
@@ -123,7 +125,8 @@ function generateIndex(glyphs, indexOutputFile) {
     .map((g) => {
       return `<div class="icon">
       <span class="icon-${g.metadata.name}"></span>
-      <h2>icon-${g.metadata.name}</h2>
+      <h2>${descriptionsJson[g.metadata.name] || 'unknown'}</h2>
+      <p><code>icon-${g.metadata.name}</code></p>
       <p><code>${g.metadata.name}.svg</code></p>
       <p>unicode: <code>#${g.metadata.unicode[0].charCodeAt(0)}</code></p>
     </div>`;
@@ -192,11 +195,16 @@ function generateIndex(glyphs, indexOutputFile) {
 function generateIconsJson(glyphs, iconsJsonFile) {
   const json = {};
   glyphs.forEach((g) => {
+    let description = descriptionsJson[g.metadata.name];
+    if (!description) {
+      throw `no description found in descriptions.json for icon: ${g.metadata.name}`;
+    }
     json['icon-' + g.metadata.name] = {
       unicode: g.metadata.unicode[0],
       categories: categoriesJson.categories
         .filter((c) => c.icons.indexOf(g.metadata.name) >= 0)
         .map((c) => c.key),
+      description,
     };
   });
   fs.writeFileSync(iconsJsonFile, JSON.stringify(json, null, 2));
@@ -273,9 +281,16 @@ function generateIconUtils(glyphs, iconUtilsOutputFile) {
       .map((c) => 'IconUtils.' + c.propertyName);
     // build up the definition of the property
     const stringifiedCategories = JSON.stringify(iconCategories).replace(/"/g, '');
+
+    // get the icon description
+    const iconDescription = descriptionsJson[g.metadata.name];
+    if (!iconDescription) {
+      throw `no description found in descriptions.json for icon: ${g.metadata.name}`;
+    }
+
     return `public static readonly ${propertyName} = new IconMetadata('icon-${g.metadata.name}', '${
       g.metadata.unicode
-    }', ${stringifiedCategories});`;
+    }', ${stringifiedCategories}, '${iconDescription}');`;
   });
 
   // the map to output at the end of the file linking categories -> icons
@@ -293,10 +308,12 @@ export class IconMetadata {
   public readonly className: string;
   public readonly unicode: string;
   public readonly categories: Readonly<string[]>;
-  constructor(className: string, unicode: string, categories: string[]) {
+  public readonly description: string;
+  constructor(className: string, unicode: string, categories: string[], description: string) {
     this.className = className;
     this.unicode = unicode;
     this.categories = categories;
+    this.description = description;
   }
 }
 
@@ -313,7 +330,7 @@ export abstract class IconUtils {
       const message = 'icon with key "' + iconKey + '" requested but no definition found';
       // eslint-disable-next-line max-len
       console.warn(chalk.yellow(message));
-      return new IconMetadata(iconKey, '', []);
+      return new IconMetadata(iconKey, '', [], '');
     }
   }
   // maps and arrays
