@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
-    <title>misc-attachment</title>
-    <desc>Created with Sketch.</desc>
-    <g id="misc-attachment" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M40,38 C40,42.418278 36.418278,46 32,46 C27.581722,46 24,42.418278 24,38 L24,21 L28,21 L28,38 C28,40.209139 29.790861,42 32,42 C34.209139,42 36,40.209139 36,38 L40,38 C40,42.418278 36.418278,46 32,46 C27.581722,46 24,42.418278 24,38 L28,38 C28,40.209139 29.790861,42 32,42 C34.209139,42 36,42.209139 36,40 L36,17 C36,13.1340068 32.8659932,10 29,10 C25.1340068,10 22,13.1340068 22,17 L22,44 C22,49.5228475 26.4771525,54 32,54 C37.5228475,54 42,49.5228475 42,44 L42,21 L46,21 L46,44 C46,51.7319865 39.7319865,58 32,58 C24.2680135,58 18,51.7319865 18,44 L18,17 C18,10.9248678 22.9248678,6 29,6 C35.0751322,6 40,10.9248678 40,17 L40,38 Z" fill="#000000" fill-rule="nonzero" transform="translate(32.000000, 32.000000) rotate(-315.000000) translate(-32.000000, -32.000000) "></path>
-    </g>
-</svg>

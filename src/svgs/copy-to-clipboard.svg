@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
-    <title>copy-to-clipboard</title>
-    <desc>Created with Sketch.</desc>
-    <g id="copy-to-clipboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M53,28 L53,58 L23,58 L23,28 L53,28 Z M15.5,11 L15.5,18.5 L40.5,18.5 L40.5,11 L45,11 L45,25.5 L20.5,25.5 L20.5,45 L11,45 L11,11 L15.5,11 Z M28,6 C30.6887547,6 32.8818181,8.12230671 32.9953805,10.7831104 L33,11 L38,11 L38,16 L18,16 L18,11 L23,11 C23,8.23857625 25.2385763,6 28,6 Z M28,8.5 C26.6192881,8.5 25.5,9.61928813 25.5,11 C25.5,12.3807119 26.6192881,13.5 28,13.5 C29.3807119,13.5 30.5,12.3807119 30.5,11 C30.5,9.61928813 29.3807119,8.5 28,8.5 Z" id="Shape" fill="#000000"></path>
-    </g>
-</svg>

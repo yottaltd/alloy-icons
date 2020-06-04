@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
-    <title>bench</title>
-    <desc>Created with Sketch.</desc>
-    <g id="bench" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M52,30.4444444 L54,30.4444444 L54,34.5925926 L10,34.5925926 L10,30.4444444 L12,30.4444444 L12,28.3703704 L10,28.3703704 L10,24.2222222 L12,24.2222222 L12,22.1481481 L10,22.1481481 L10,18 L54,18 L54,22.1481481 L52,22.1481481 L52,24.2222222 L54,24.2222222 L54,28.3703704 L52,28.3703704 L52,30.4444444 Z M50,30.4444444 L50,28.3703704 L14,28.3703704 L14,30.4444444 L50,30.4444444 Z M50,24.2222222 L50,22.1481481 L14,22.1481481 L14,24.2222222 L50,24.2222222 Z M6,36.6666667 L58,36.6666667 L58,40.8148148 L6,40.8148148 L6,36.6666667 Z M10,41.8518519 L12,41.8518519 L12,46 L10,46 L10,41.8518519 Z M52,41.8518519 L54,41.8518519 L54,46 L52,46 L52,41.8518519 Z" id="icon-bench" fill="#000000"></path>
-    </g>
-</svg>
