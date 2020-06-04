@@ -1,0 +1,28 @@
+name: Node.js Package
+
+on:
+  push:
+    branches:
+      - dev
+
+jobs:
+  publish-npm:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12
+          registry-url: https://registry.npmjs.org/
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          ACCESS_TOKEN: ${{ secrets.GITHUB_PAGES_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: dist
+      - name: Actions for Discord
+        uses: Ilshidur/action-discord@0.0.2
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        with:
+          args: 'New Version of alloy-icons released.\nsee: https://yottaltd.github.io/alloy-icons/'
