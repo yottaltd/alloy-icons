@@ -1,8 +1,10 @@
 {
-  "name": "alloy-icons",
+  "name": "@yottaltd/alloy-icons",
   "version": "1.0.0",
   "description": "icons for alloy",
   "private": true,
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "repository": "git://github.com/yottaltd/alloy-icons.git",
   "scripts": {
     "icons": "node ./processIcons.js"
   },
