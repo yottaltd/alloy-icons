@@ -10,6 +10,7 @@
         "bridge-overbridge",
         "bridge",
         "culvert",
+        "cup",
         "disabled",
         "misc-archive",
         "misc-archived",
@@ -621,8 +622,10 @@
       "key": "system",
       "icons": [
         "aqs-builder",
+        "basic",
         "close",
         "close-small",
+        "cluster",
         "collection-card",
         "collection-empty",
         "collection-full",
