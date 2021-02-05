@@ -146,4501 +146,4550 @@
     ],
     "description": "And gate logical"
   },
-  "icon-aqs-builder": {
+  "icon-animal-skull": {
     "unicode": "",
+    "categories": [
+      "street_cleansing"
+    ],
+    "description": "Animal skull"
+  },
+  "icon-aqs-builder": {
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Or gate logical"
   },
   "icon-arrow-axis": {
-    "unicode": "",
+    "unicode": "",
     "categories": [],
     "description": "Move arrow"
   },
   "icon-arrow-down": {
-    "unicode": "",
+    "unicode": "",
     "categories": [],
     "description": "Down arrow"
   },
   "icon-arrow-fullscreen": {
-    "unicode": "",
+    "unicode": "",
     "categories": [],
     "description": "Fullscreen"
   },
   "icon-arrow-left": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Left arrow"
   },
   "icon-arrow-long-change-horz": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Swap change left right arrows"
   },
   "icon-arrow-long-change-vertical": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Up down arrows"
   },
   "icon-arrow-long-down": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Down arrow"
   },
   "icon-arrow-long-left": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Left arrow"
   },
   "icon-arrow-long-leftright": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Width left-right arrow"
   },
   "icon-arrow-long-level-down": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Down arrow"
   },
   "icon-arrow-long-level-up": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Up arrow"
   },
   "icon-arrow-long-limit-down": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Below limit down arrow"
   },
   "icon-arrow-long-limit-left": {
-    "unicode": "",
+    "unicode": "",
     "categories": [],
     "description": "Left limit arrow"
   },
   "icon-arrow-long-limit-leftright": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Left right limit arrow"
   },
   "icon-arrow-long-limit-right": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Right limit arrow"
   },
   "icon-arrow-long-limit-up": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Above limit up arrow"
   },
   "icon-arrow-long-limit-upanddown": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Threshold up-down arrow"
   },
   "icon-arrow-long-right": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Right arrow"
   },
   "icon-arrow-long-up": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Up arrow"
   },
   "icon-arrow-long-upanddown": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Height up-down arrow"
   },
   "icon-arrow-maximize": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Maximise"
   },
   "icon-arrow-minimize": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Minimise"
   },
   "icon-arrow-retry": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Retry"
   },
   "icon-arrow-right": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Right arrow"
   },
   "icon-arrow-triangle-down": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Down triangle"
   },
   "icon-arrow-triangle-left": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Left triangle"
   },
   "icon-arrow-triangle-leftright": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Left-right triangles"
   },
   "icon-arrow-triangle-right": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Right triangle"
   },
   "icon-arrow-triangle-thin-down": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Down arrow"
   },
   "icon-arrow-triangle-thin-forward": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Fast-forward chevrons"
   },
   "icon-arrow-triangle-thin-left": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Left chevron"
   },
   "icon-arrow-triangle-thin-lr": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Left-right chevrons"
   },
   "icon-arrow-triangle-thin-right": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Right chevron"
   },
   "icon-arrow-triangle-thin-ud": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Up-down chevrons"
   },
   "icon-arrow-triangle-thin-up": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Up chevron"
   },
   "icon-arrow-triangle-trin-rewind": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Rewind chevrons"
   },
   "icon-arrow-triangle-up": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Up triangle"
   },
   "icon-arrow-triangle-upanddown": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Up-down triangles"
   },
   "icon-arrow-try-again": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Undo"
   },
   "icon-arrow-up": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "arrows"
     ],
     "description": "Up arrow"
   },
   "icon-assisted": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Assisted"
   },
   "icon-assisted-alt": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Stop hand"
   },
   "icon-barcode": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Barcode"
   },
   "icon-barrier-double": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "barriers"
     ],
     "description": "Double barrier"
   },
   "icon-barrier-fence": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "barriers"
     ],
     "description": "Picket fence"
   },
   "icon-barrier-gate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "barriers"
     ],
     "description": "Barrier"
   },
   "icon-barrier-single": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "barriers"
     ],
     "description": "Single barrier"
   },
   "icon-barrier-temporary": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "barriers"
     ],
     "description": "Temporary barrier"
   },
   "icon-basic": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Basic visualisation"
   },
   "icon-bench": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Bench"
   },
   "icon-bike": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "transport"
     ],
     "description": "Bicycle"
   },
   "icon-bike-hire": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "transport"
     ],
     "description": "Underground"
   },
   "icon-bike-line": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "transport"
     ],
     "description": "Cycle lane"
   },
   "icon-bike-pump": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "transport"
     ],
     "description": "Pump"
   },
   "icon-bike-rack": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "transport"
     ],
     "description": "Bike rack"
   },
   "icon-bin": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "bins"
     ],
     "description": "Wheelie bin"
   },
   "icon-bin-full": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "bins"
     ],
     "description": "Wheelie bin full"
   },
   "icon-bin-grit": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "bins"
     ],
     "description": "Grit bin"
   },
   "icon-bin-group": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "bins"
     ],
     "description": "Wheelie bin group"
   },
   "icon-bin-recycle": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "bins"
     ],
     "description": "Recycle wheelie bin"
   },
   "icon-bin-recycle-small": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "bins"
     ],
     "description": "Recycle bin"
   },
   "icon-bin-storage": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "bins"
     ],
     "description": "Large recycle bin"
   },
+  "icon-biohazard": {
+    "unicode": "",
+    "categories": [
+      "street_cleansing"
+    ],
+    "description": "Biohazard"
+  },
   "icon-bollard-directional": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "bollards"
     ],
     "description": "Directional bollard"
   },
   "icon-bollard-illuminated": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "bollards"
     ],
     "description": "Illuminated bollard"
   },
   "icon-bollard-safety": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "bollards"
     ],
     "description": "Safety bollard"
   },
   "icon-bridge": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Bridge"
   },
   "icon-bridge-overbridge": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Overbridge"
   },
   "icon-budgets": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "budgets"
     ],
     "description": "Wallet budget"
   },
   "icon-budgets-bag": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "budgets"
     ],
     "description": "Money bag"
   },
   "icon-budgets-bag-star": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "budgets"
     ],
     "description": "Favorite money bag"
   },
   "icon-budgets-money": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "budgets"
     ],
     "description": "Money"
   },
   "icon-buildings-building": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "buildings"
     ],
     "description": "Building"
   },
   "icon-buildings-factory": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "buildings"
     ],
     "description": "Factory"
   },
   "icon-buildings-sport-pitch": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "buildings"
     ],
     "description": "Sports football"
   },
   "icon-buildings-store": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "buildings"
     ],
     "description": "Shop store"
   },
   "icon-bulb-energy-off": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "lighting"
     ],
     "description": "Energy saving bulb"
   },
   "icon-bulb-led-off": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "lighting"
     ],
     "description": "Led Bulb"
   },
   "icon-bulb-led-on": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "lighting"
     ],
     "description": "Led bulb on"
   },
   "icon-bulb-off": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "lighting"
     ],
     "description": "Bulb off"
   },
   "icon-bulb-old-off": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "lighting"
     ],
     "description": "Bulb screw e27"
   },
   "icon-bulb-old-on": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "lighting"
     ],
     "description": "Bulb screw e27 on"
   },
   "icon-bulb-on": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "lighting"
     ],
     "description": "Bulb on"
   },
   "icon-bus": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "transport"
     ],
     "description": "Bus"
   },
   "icon-bus-lane": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "transport"
     ],
     "description": "Bus lane"
   },
   "icon-bus-shelter": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "transport"
     ],
     "description": "Bus shelter"
   },
   "icon-bus-stop": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "transport"
     ],
     "description": "Bus stop"
   },
   "icon-close": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Close x"
   },
   "icon-close-small": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Close x small"
   },
   "icon-cluster": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Cluster visualisation"
   },
   "icon-collection-card": {
-    "unicode": "",
-    "categories": [
-      "system"
-    ],
-    "description": "Collection"
-  },
-  "icon-collection-empty": {
-    "unicode": "",
-    "categories": [
-      "system"
-    ],
-    "description": "Empty collection"
-  },
-  "icon-collection-full": {
     "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Collection"
   },
-  "icon-condition-equals": {
+  "icon-collection-empty": {
     "unicode": "",
+    "categories": [
+      "system"
+    ],
+    "description": "Empty collection"
+  },
+  "icon-collection-full": {
+    "unicode": "",
+    "categories": [
+      "system"
+    ],
+    "description": "Collection"
+  },
+  "icon-condition-equals": {
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Equals"
   },
   "icon-condition-great": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Greater than"
   },
   "icon-condition-greater-equals": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Greater than or equals"
   },
   "icon-condition-less": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Less than"
   },
   "icon-condition-less-equals": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Less than or equals"
   },
   "icon-conversation-call": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "conversation"
     ],
     "description": "Phone call"
   },
   "icon-conversation-discusion": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "conversation"
     ],
     "description": "Chat conversation"
   },
   "icon-conversation-mail-closed": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "conversation"
     ],
     "description": "Mail closed"
   },
   "icon-conversation-mail-open": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "conversation"
     ],
     "description": "Mail open"
   },
   "icon-conversation-message-empty": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "conversation"
     ],
     "description": "Message notification"
   },
   "icon-conversation-reply-empty": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "conversation"
     ],
     "description": "Reply"
   },
   "icon-conversation-share": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "conversation"
     ],
     "description": "Share"
   },
   "icon-conversation-videocall": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "conversation"
     ],
     "description": "Video"
   },
   "icon-copy-id": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Copy id to clipboard"
   },
   "icon-copy-to-clipboard": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Copy to clipboard"
   },
   "icon-coversation-reply-full": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "conversation"
     ],
     "description": "Reply"
   },
   "icon-crossing-lines": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "crossing"
     ],
     "description": "Crossing road marking"
   },
   "icon-crossing-pedestrian-top": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "crossing"
     ],
     "description": "Crossing road marking"
   },
   "icon-crossing-pedestrian-walking": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "crossing"
     ],
     "description": "Pedestrian crossing"
   },
   "icon-crossing-train": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "crossing"
     ],
     "description": "Railway crossing"
   },
   "icon-culvert": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Culvert"
   },
   "icon-cup": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Winners cup"
   },
   "icon-currency-dollar": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "numbers_and_currency"
     ],
     "description": "Currency Dollar"
   },
   "icon-currency-euro": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "numbers_and_currency"
     ],
     "description": "Currency Euro"
   },
   "icon-currency-pound": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "numbers_and_currency"
     ],
     "description": "Currency Pound"
   },
   "icon-cursor-arrow": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Pointer cursor"
   },
   "icon-cursor-directions": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Move cursor"
   },
   "icon-cursor-hand": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Click cursor"
   },
   "icon-cursor-mouse": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Mouse"
   },
   "icon-defect": {
-    "unicode": "",
-    "categories": [
-      "defects"
-    ],
-    "description": "Caution defect"
-  },
-  "icon-defect-electric": {
-    "unicode": "",
-    "categories": [
-      "defects"
-    ],
-    "description": "Caution electricity"
-  },
-  "icon-defect-empty": {
     "unicode": "",
     "categories": [
       "defects"
     ],
     "description": "Caution defect"
   },
-  "icon-defect-fire": {
+  "icon-defect-electric": {
     "unicode": "",
     "categories": [
       "defects"
     ],
-    "description": "Caution fire"
+    "description": "Caution electricity"
   },
-  "icon-defect-full": {
+  "icon-defect-empty": {
     "unicode": "",
     "categories": [
       "defects"
     ],
     "description": "Caution defect"
   },
-  "icon-defect-important": {
+  "icon-defect-fire": {
     "unicode": "",
+    "categories": [
+      "defects"
+    ],
+    "description": "Caution fire"
+  },
+  "icon-defect-full": {
+    "unicode": "",
+    "categories": [
+      "defects"
+    ],
+    "description": "Caution defect"
+  },
+  "icon-defect-important": {
+    "unicode": "",
     "categories": [
       "defects"
     ],
     "description": "Caution defect"
   },
   "icon-defect-water": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "defects"
     ],
     "description": "Caution water"
   },
   "icon-disabled": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "No entry"
   },
   "icon-display-grid": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Grid squares"
   },
   "icon-display-icons": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Grid squares"
   },
   "icon-display-list": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "List"
   },
   "icon-display-row": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Rows"
   },
   "icon-done": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Done check"
   },
   "icon-drainage-catchpit": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Catchpit"
   },
   "icon-drainage-channel": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Drainage channel"
   },
   "icon-drainage-culvert-outfall": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Culvert outfall"
   },
   "icon-drainage-ditch": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Drainage ditch"
   },
   "icon-drainage-drain": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Manhole cover"
   },
   "icon-drainage-gully": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Drainage gully"
   },
   "icon-drainage-pipe": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Water pipe"
   },
   "icon-drainage-pipe-control": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Water tap"
   },
   "icon-drainage-pond": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Water pond"
   },
   "icon-drainage-sewers": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Drainage water gully"
   },
   "icon-element-electricity": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "elements"
     ],
     "description": "Electrical plug"
   },
   "icon-element-fire": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "elements"
     ],
     "description": "Fire"
   },
   "icon-element-lighting": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "lighting"
     ],
     "description": "Electricity"
   },
   "icon-element-night": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "elements"
     ],
     "description": "Night cresent moon"
   },
   "icon-element-water": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "elements"
     ],
     "description": "Water"
   },
   "icon-element-wind": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "elements"
     ],
     "description": "Wind"
   },
   "icon-explorer": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Data explorer"
   },
   "icon-fence-gate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "barriers"
     ],
     "description": "Open gate"
   },
   "icon-fence-gate-08": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "barriers"
     ],
     "description": "Gate"
   },
   "icon-fence-special": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "barriers"
     ],
     "description": "Fence"
   },
   "icon-file": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "File"
   },
   "icon-file-bill": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Work file"
   },
   "icon-file-chart": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Reports file"
   },
   "icon-file-code": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Code file"
   },
   "icon-file-corrupted": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Corrupt file"
   },
   "icon-file-document": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Document file"
   },
   "icon-file-dropdown": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Down file"
   },
   "icon-file-duplicate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Copy file"
   },
   "icon-file-edit": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Edit file"
   },
   "icon-file-picture": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Image file"
   },
   "icon-file-system": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "System file"
   },
   "icon-file-table": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Spreadshhet file"
   },
   "icon-file-thing": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Notes file"
   },
   "icon-file-unknown": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Unknown file"
   },
   "icon-folder": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Folder"
   },
   "icon-folder-create-new": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Add new folder"
   },
   "icon-folder-empty": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Empty folder"
   },
   "icon-folder-files": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Folder files"
   },
   "icon-folder-locked": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Locked folder"
   },
   "icon-folder-open": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Open folder"
   },
   "icon-folder-reports": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Reports folder"
   },
   "icon-folder-required": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Required folder"
   },
   "icon-folder-special": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Favorite folder"
   },
   "icon-folder-system": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "System folder"
   },
   "icon-folder-user": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "User folder"
   },
   "icon-footway-tacticle": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "road"
     ],
     "description": "Foot steps"
   },
+  "icon-graffiti-can": {
+    "unicode": "",
+    "categories": [
+      "street_cleansing"
+    ],
+    "description": "Graffiti spray can"
+  },
   "icon-hydrant": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "barriers"
     ],
     "description": "Fire hydrant"
   },
   "icon-import": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Cloud"
   },
   "icon-import-block": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Cloud blocked"
   },
   "icon-import-cancel": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Cloud cancel"
   },
   "icon-import-cloud-empty": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Cloud empty"
   },
   "icon-import-done": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Cloud success"
   },
   "icon-import-export": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Cloud download"
   },
   "icon-import-file": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Cloud file"
   },
   "icon-import-in": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Cloud upload"
   },
   "icon-infinity": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Infinity"
   },
   "icon-information-board": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "barriers"
     ],
     "description": "Information board"
   },
+  "icon-injection-needle": {
+    "unicode": "",
+    "categories": [
+      "street_cleansing"
+    ],
+    "description": "Syringe needle"
+  },
   "icon-inspection": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "inspections"
     ],
     "description": "Inspection clipboard"
   },
   "icon-inspection-canceled": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "inspections"
     ],
     "description": "Inspection canceled"
   },
   "icon-inspection-done": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "inspections"
     ],
     "description": "Inspection complete"
   },
   "icon-inspection-electric": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "inspections"
     ],
     "description": "Electrical inspection"
   },
   "icon-inspection-fire": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "inspections"
     ],
     "description": "Fire safety inspection"
   },
   "icon-inspection-hs": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "inspections"
     ],
     "description": "Health and safty inspection"
   },
   "icon-inspection-important": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "inspections"
     ],
     "description": "Special inspection"
   },
   "icon-inspection-nightpatrol": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "inspections"
     ],
     "description": "Night inspection"
   },
   "icon-inspection-setup": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "inspections"
     ],
     "description": "System inspection"
   },
   "icon-inspection-special": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "inspections"
     ],
     "description": "Required inspection"
   },
   "icon-inspection-unknown": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "inspections"
     ],
     "description": "Unknown inspection"
   },
   "icon-inspection-visual": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "inspections"
     ],
     "description": "Visual inspection"
   },
   "icon-inspection-warning": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "inspections"
     ],
     "description": "Defect inspection"
   },
   "icon-inspection-water": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "inspections"
     ],
     "description": "Water inspection"
   },
   "icon-intersection": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "road"
     ],
     "description": "Road intersection"
   },
   "icon-intersection-outline": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "road"
     ],
     "description": "Road intersection"
   },
   "icon-item-checked": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Checkbox filled"
   },
   "icon-item-duplicate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Duplicate"
   },
   "icon-item-edit": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Edit"
   },
   "icon-item-empty": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Checkbox empty"
   },
   "icon-item-expand": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Expand"
   },
   "icon-item-minimize": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Shrink minimise"
   },
   "icon-item-multiply": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Multiple items"
   },
   "icon-item-notification": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Notification"
   },
   "icon-item-share": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Forward"
   },
   "icon-item-valid": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Checkbox filled"
   },
   "icon-job-work-item": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Job work item"
   },
   "icon-lanes-acceleration": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "road"
     ],
     "description": "Road marking triangles"
   },
   "icon-lanes-double": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "road"
     ],
     "description": "Raod marking line"
   },
   "icon-lanes-perspective": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "road"
     ],
     "description": "Road marking lines"
   },
   "icon-lanes-top": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "road"
     ],
     "description": "Road marking lanes"
   },
   "icon-lay-by": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "road"
     ],
     "description": "Road layby"
   },
   "icon-leaves-alternate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves alternate"
   },
   "icon-leaves-arcuate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves arcuate"
   },
   "icon-leaves-aristate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves aristate"
   },
   "icon-leaves-bipinnate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves bipinnate"
   },
   "icon-leaves-cordate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves cordate"
   },
   "icon-leaves-cuneate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves cuneate"
   },
   "icon-leaves-cuneate-copy": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves cuneate"
   },
   "icon-leaves-dentate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves dentate"
   },
   "icon-leaves-dichotomous": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves dichotomous"
   },
   "icon-leaves-digitate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves digitate"
   },
   "icon-leaves-doubly-serrate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves doubly serrate"
   },
   "icon-leaves-evenpinnate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves evenpinnate"
   },
   "icon-leaves-falcate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves falcate"
   },
   "icon-leaves-flabellate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves flabellate"
   },
   "icon-leaves-hastate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves hastate"
   },
   "icon-leaves-lanceolate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves lanceolate"
   },
   "icon-leaves-lobed": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves lobed"
   },
   "icon-leaves-longitudinal": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves longitudinal"
   },
   "icon-leaves-obcordate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves obcordate"
   },
   "icon-leaves-obovate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves obovate"
   },
   "icon-leaves-obtuse": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves obtuse"
   },
   "icon-leaves-opposite": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves opposite"
   },
   "icon-leaves-orbicular": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves orbicular"
   },
   "icon-leaves-ovate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves ovate"
   },
   "icon-leaves-palmate-10": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves palmate"
   },
   "icon-leaves-palmate-41": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves palmate"
   },
   "icon-leaves-pedate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves pedate"
   },
   "icon-leaves-pinnate-24": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves pinnate"
   },
   "icon-leaves-pinnate-43": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves pinnate"
   },
   "icon-leaves-pinnatisect": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves pinnatisect"
   },
   "icon-leaves-rhomboid": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves rhomboid"
   },
   "icon-leaves-rotate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves rotate"
   },
   "icon-leaves-serrate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves serrate"
   },
   "icon-leaves-sinuate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves sinuate"
   },
   "icon-leaves-spatulate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves spatulate"
   },
   "icon-leaves-spearshaped": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves spearshaped"
   },
   "icon-leaves-trifoliate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves trifoliate"
   },
   "icon-leaves-unfoliate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves unfoliate"
   },
   "icon-leaves-venulate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Leaves venulate"
   },
   "icon-link": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Link"
   },
   "icon-location-findme-inprogress": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "location"
     ],
     "description": "Navigation arrow"
   },
   "icon-location-findme-off": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "location"
     ],
     "description": "Navigation arrow"
   },
   "icon-location-findme-on": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "location"
     ],
     "description": "Navigation arrow"
   },
   "icon-location-orientation-empty": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "location"
     ],
     "description": "Compass"
   },
   "icon-location-orientation-full": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "location"
     ],
     "description": "Compass"
   },
   "icon-location-target": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "location"
     ],
     "description": "Location target"
   },
   "icon-lock": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Locked"
   },
   "icon-lock-group": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "User group lock"
   },
   "icon-lock-invisible": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Visual lock"
   },
   "icon-lock-key-old": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Key"
   },
   "icon-lock-open": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Open lock"
   },
   "icon-lock-public": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "World"
   },
   "icon-marker": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "map_marker"
     ],
     "description": "Location marker"
   },
   "icon-marker-circle": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "map_marker"
     ],
     "description": "Location marker"
   },
   "icon-marker-coffee": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "map_marker"
     ],
     "description": "Coffee"
   },
   "icon-marker-empty": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "map_marker"
     ],
     "description": "Location marker"
   },
   "icon-marker-flag": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "map_marker"
     ],
     "description": "Location flag"
   },
   "icon-marker-historical": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "map_marker"
     ],
     "description": "Castle"
   },
   "icon-marker-home": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "map_marker"
     ],
     "description": "House home"
   },
   "icon-marker-reserve": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "map_marker"
     ],
     "description": "Camping tent"
   },
   "icon-marker-station": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "map_marker"
     ],
     "description": "Fuel station pump"
   },
   "icon-market-camp": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "map_marker"
     ],
     "description": "Camp group"
   },
   "icon-markings-hatchedroad": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "road"
     ],
     "description": "Hatched road marking"
   },
   "icon-markings-longitudinalroad": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "road"
     ],
     "description": "Dashed road markings"
   },
   "icon-markings-transversespecial": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "road"
     ],
     "description": "Directional road marking"
   },
   "icon-math-ab": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Power exponent"
   },
   "icon-math-approximate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Approximation"
   },
   "icon-math-brackets": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Curly braces"
   },
   "icon-math-ceiling": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Ceiling"
   },
   "icon-math-floor": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Floor"
   },
   "icon-math-hash": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Hash"
   },
   "icon-math-number": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Numbers 123"
   },
   "icon-math-sqroot": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Square root"
   },
   "icon-math-sum": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Sigma sum"
   },
   "icon-math-text": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Text"
   },
   "icon-math-tilde": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Tilde"
   },
   "icon-misc-archive": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Archive"
   },
   "icon-misc-archived": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Unarchive"
   },
   "icon-misc-attachment": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Attachment"
   },
   "icon-misc-backspace": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Backspace"
   },
   "icon-misc-bell-empty": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Notification bell"
   },
   "icon-misc-bell-full": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Notification bell"
   },
   "icon-misc-bin": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Delete bin"
   },
   "icon-misc-bookmark": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Bookmark"
   },
   "icon-misc-bug": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Bug"
   },
   "icon-misc-chart-pie": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Pie chart"
   },
   "icon-misc-collapse": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Collapse"
   },
   "icon-misc-crop-crop": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Image crop"
   },
   "icon-misc-done": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Check done circle"
   },
   "icon-misc-error": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Error triangle"
   },
   "icon-misc-expand": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Expand"
   },
   "icon-misc-export": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Download"
   },
   "icon-misc-filter": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Horizontal lines hamburger"
   },
   "icon-misc-filter-empty": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Empty filter"
   },
   "icon-misc-filter-full": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Filter full"
   },
   "icon-misc-fingerprint": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Fingerprint"
   },
   "icon-misc-graph-display": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Line graph"
   },
   "icon-misc-heart": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Heart"
   },
   "icon-misc-icon": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Down triangle circle"
   },
   "icon-misc-information": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Information"
   },
   "icon-misc-linked": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Linked"
   },
   "icon-misc-loading": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Loading spinner"
   },
   "icon-misc-menu-dots-horizontal": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Horizontal dots"
   },
   "icon-misc-menu-dots-vertical": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Vertical dots"
   },
   "icon-misc-minus": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Horizontal line minus"
   },
   "icon-misc-mixer": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Mixer levels"
   },
   "icon-misc-movie-play": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Movie plays"
   },
   "icon-misc-paperplane": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Paper plane send"
   },
   "icon-misc-pause": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Pause"
   },
   "icon-misc-pen-edit": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Edit pen"
   },
   "icon-misc-photo": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Photo"
   },
   "icon-misc-pin": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Drawing pin"
   },
   "icon-misc-play": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Play"
   },
   "icon-misc-plus": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Plus add"
   },
   "icon-misc-print": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Printer"
   },
   "icon-misc-quard": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Shield x"
   },
   "icon-misc-question-mark": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "unknown questionmark"
   },
   "icon-misc-required": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Required asterix"
   },
   "icon-misc-selection-box": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Bounding box selection"
   },
   "icon-misc-selection-box-empty": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Bounding box selection"
   },
   "icon-misc-settings": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Settings gears"
   },
   "icon-misc-setup": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Settings gear"
   },
   "icon-misc-share": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Export"
   },
   "icon-misc-star-empty": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Favorite star"
   },
   "icon-misc-star-full": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Favorite star"
   },
   "icon-misc-star-variant": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Favorite star"
   },
   "icon-misc-star-variant-outline": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Favorite star"
   },
   "icon-misc-subscription": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Recurring payment"
   },
   "icon-misc-sync": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Swap"
   },
   "icon-misc-thumb-down": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Thumbs down"
   },
   "icon-misc-thumb-up": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Thumbs up"
   },
   "icon-misc-visible-false": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Hidden"
   },
   "icon-misc-visible-true": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Visable"
   },
   "icon-misc-warning": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Warning triangle"
   },
   "icon-misc-watch": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Binoculars"
   },
   "icon-misc-wind-turbine": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Wind turbine"
   },
+  "icon-multi-select": {
+    "unicode": "",
+    "categories": [
+      "system"
+    ],
+    "description": "Multi-select"
+  },
   "icon-network": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "network"
     ],
     "description": "Network"
   },
   "icon-network-highway": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "network"
     ],
     "description": "Motorway highway"
   },
   "icon-network-road": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "network"
     ],
     "description": "Road"
   },
   "icon-network-structure-iso-lower": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "network"
     ],
     "description": "Road construction lower layer"
   },
   "icon-network-structure-iso-top": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "network"
     ],
     "description": "Road constriction upper layer "
   },
   "icon-network-structure-middle": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "network"
     ],
     "description": "Road construction middle layer"
   },
   "icon-operator-divide": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Math divide"
   },
   "icon-operator-minus": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Math minus"
   },
   "icon-operator-multiply": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Math multiply"
   },
   "icon-operator-plus": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Math plus"
   },
   "icon-operator-plusminus": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Math plus minus"
   },
   "icon-or-gate": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Logical or gate"
   },
   "icon-parking-bay": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "parking"
     ],
     "description": "Parking"
   },
   "icon-parking-enforcement": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "parking"
     ],
     "description": "Enforcement police"
   },
   "icon-parking-meter": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "parking"
     ],
     "description": "Parking meter"
   },
   "icon-parking-meter-simple": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "parking"
     ],
     "description": "Parking meter"
   },
   "icon-parking-ticket-machine": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "parking"
     ],
     "description": "Parking ticket machine"
   },
   "icon-parking-vehicle-single": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "parking"
     ],
     "description": "Vehicle Parking"
   },
   "icon-parking-vehicles": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "parking"
     ],
     "description": "Vehicle parking"
   },
   "icon-pathfinder": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Pathfinder"
   },
   "icon-person-at-work": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "people"
     ],
     "description": "Person at work"
   },
   "icon-person-disabled": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "people"
     ],
     "description": "Disabled"
   },
   "icon-person-not-allowed": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "people"
     ],
     "description": "No entry person"
   },
   "icon-person-running": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "people"
     ],
     "description": "Person running"
   },
   "icon-person-stand": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "people"
     ],
     "description": "Person standing"
   },
   "icon-person-walking": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "people"
     ],
     "description": "Person walking"
   },
   "icon-pipe-bottom-right": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Pipe bend up right"
   },
   "icon-pipe-cross": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Pipe cross connector"
   },
   "icon-pipe-left-bottom": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Pipe bend up left"
   },
   "icon-pipe-left-bottom-right": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Pipe T down"
   },
   "icon-pipe-left-right": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Pipe section horizontal"
   },
   "icon-pipe-left-top": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Pipe down left"
   },
   "icon-pipe-left-top-bottom": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Pipe T left"
   },
   "icon-pipe-left-top-right": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Pipe T up"
   },
   "icon-pipe-top-bottom": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Pipe section vertical"
   },
   "icon-pipe-top-right": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Pipe bend down right"
   },
   "icon-pipe-top-right-bottom": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Pipe T right"
   },
   "icon-pipe-valve-left-right": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Pipe valve horizontal"
   },
   "icon-pipe-valve-top-bottom": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "pipes_and_drainage"
     ],
     "description": "Pipe valuve vertical"
   },
   "icon-playarea": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Playground slide"
   },
+  "icon-poo": {
+    "unicode": "",
+    "categories": [
+      "street_cleansing"
+    ],
+    "description": "Poo"
+  },
   "icon-qr-code": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "QR code"
   },
   "icon-rail": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "barriers"
     ],
     "description": "Railing"
   },
   "icon-rail-hand": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "barriers"
     ],
     "description": "Hand railing"
   },
   "icon-rail-small": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "barriers"
     ],
     "description": "Hand railing"
   },
   "icon-reload": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Swap reload"
   },
   "icon-reports": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Report builder"
   },
   "icon-resource-camera-cctv": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "resource"
     ],
     "description": "CCTV camera"
   },
   "icon-resource-camera-safety": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "resource"
     ],
     "description": "Speed saftey camera"
   },
   "icon-resource-detector-loop": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "resource"
     ],
     "description": "Location detector"
   },
   "icon-resource-display": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "resource"
     ],
     "description": "Display monitor"
   },
   "icon-resource-gantry": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "resource"
     ],
     "description": "Gantry hook"
   },
   "icon-resource-gauge": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "resource"
     ],
     "description": "Gauge"
   },
   "icon-resource-grounds": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "resource"
     ],
     "description": "Excavator digger"
   },
   "icon-resource-house": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "resource"
     ],
     "description": "House home"
   },
   "icon-resource-job": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "resource"
     ],
     "description": "Job spanner"
   },
   "icon-resource-road-cone": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "resource"
     ],
     "description": "Road cone"
   },
   "icon-resource-telephone": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "resource"
     ],
     "description": "Phone"
   },
   "icon-resource-telephone-emerg": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "resource"
     ],
     "description": "Emergency phone"
   },
   "icon-resource-tools": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "resource"
     ],
     "description": "Tools"
   },
   "icon-resource-walkway": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "resource"
     ],
     "description": "Bare feet footsteps"
   },
   "icon-resource-waste-point": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "resource"
     ],
     "description": "Waste bin delete"
   },
   "icon-road-marking-top-simple": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "road"
     ],
     "description": "Horizontal lines"
   },
   "icon-road-markings": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "road"
     ],
     "description": "Horizontal lines"
   },
   "icon-road-markings-1": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "road"
     ],
     "description": "Road markings nodes"
   },
   "icon-road-markings-top": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "road"
     ],
     "description": "Road marking chevrons"
   },
   "icon-route": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "route"
     ],
     "description": "Route merge"
   },
   "icon-route-finish": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "route"
     ],
     "description": "Checkered flag finish"
   },
   "icon-route-start": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "route"
     ],
     "description": "Starting go"
   },
   "icon-save": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Save download"
   },
   "icon-save-alt": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Save disk"
   },
   "icon-schedule": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "schedule"
     ],
     "description": "Schedule calendar"
   },
   "icon-schedule-active": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "schedule"
     ],
     "description": "Active schedule"
   },
   "icon-schedule-canceled": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "schedule"
     ],
     "description": "Cancelled scheduled"
   },
   "icon-schedule-date-time": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "schedule"
     ],
     "description": "Scheduled date and time"
   },
   "icon-schedule-done": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "schedule"
     ],
     "description": "Scheduled complete"
   },
   "icon-schedule-empty": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "schedule"
     ],
     "description": "Empty schedule"
   },
   "icon-schedule-paused": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "schedule"
     ],
     "description": "Scheduled paused"
   },
   "icon-schedule-retry": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "schedule"
     ],
     "description": "Scheduled retry"
   },
   "icon-schedule-timer": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "schedule"
     ],
     "description": "Countdown timer"
   },
   "icon-search": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Search"
   },
   "icon-search-empty": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Search face"
   },
   "icon-search-ids": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Unknown tags"
   },
   "icon-search-location": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Unknown location marker"
   },
   "icon-search-unknown": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Unknown"
   },
   "icon-search-zoom": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Search"
   },
   "icon-search-zoomin": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Zoom in"
   },
   "icon-search-zoomout": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Zoom out"
   },
   "icon-shape-circle": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "shapes"
     ],
     "description": "Circle"
   },
   "icon-shape-diamond": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "shapes"
     ],
     "description": "Diamond"
   },
   "icon-shape-octagon": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "shapes"
     ],
     "description": "Octagon"
   },
   "icon-shape-square": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "shapes"
     ],
     "description": "Square"
   },
   "icon-shape-trapezoid": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "shapes"
     ],
     "description": "Trapezoid"
   },
   "icon-shape-triangle": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "shapes"
     ],
     "description": "Triangle"
   },
   "icon-sign": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Traffic sign"
   },
   "icon-sign-arrow-bend": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Road direction sign arrow bend"
   },
   "icon-sign-arrow-down": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Down direction arrow"
   },
   "icon-sign-arrow-left": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Left direction arrow"
   },
   "icon-sign-arrow-left-short": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Turn left direction arrow"
   },
   "icon-sign-arrow-right": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Right direction arrow"
   },
   "icon-sign-arrow-roundebound": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Roundabout"
   },
   "icon-sign-arrow-straight": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Up direction arrow"
   },
   "icon-sign-arrow-turn-left": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Turn left direction arrow"
   },
   "icon-sign-arrow-turn-right": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Turn right direction arrow"
   },
   "icon-sign-arrow-two-lanes": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Two lanes direction arrows"
   },
   "icon-sign-arrow-two-ways": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Two ways direction arrows"
   },
   "icon-sign-bridge": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Bridge sign"
   },
   "icon-sign-bumpy-road": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Road hump sign"
   },
   "icon-sign-cameras": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Speed safety camera"
   },
   "icon-sign-car": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Vehiclar traffic sign"
   },
   "icon-sign-circular-arrow-diag": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Circular arrow sign diagonal"
   },
   "icon-sign-circular-arrow-left": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Circular arrow sign left"
   },
   "icon-sign-circular-arrow-up": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Circular arrow sign up"
   },
   "icon-sign-circular-cross": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Circular sign cross"
   },
   "icon-sign-circular-go": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Go start"
   },
   "icon-sign-circular-no-entry": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "No entry sign"
   },
   "icon-sign-circular-no-stop": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "National speed limit applies"
   },
   "icon-sign-circular-ring": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Circle empty"
   },
   "icon-sign-circular-speed-10": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Circular Speed sign 10"
   },
   "icon-sign-circular-speed-100": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Circular Speed sign 100"
   },
   "icon-sign-circular-speed-110": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Circular Speed sign 110"
   },
   "icon-sign-circular-speed-120": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Circular Speed sign 120"
   },
   "icon-sign-circular-speed-130": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Circular Speed sign 130"
   },
   "icon-sign-circular-speed-20": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Circular Speed sign 20"
   },
   "icon-sign-circular-speed-30": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Circular Speed sign 30"
   },
   "icon-sign-circular-speed-40": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Circular Speed sign 40"
   },
   "icon-sign-circular-speed-50": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Circular Speed sign 50"
   },
   "icon-sign-circular-speed-60": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Circular Speed sign 60"
   },
   "icon-sign-circular-speed-70": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Circular Speed sign 70"
   },
   "icon-sign-circular-speed-80": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Circular Speed sign 80"
   },
   "icon-sign-circular-speed-90": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Circular Speed sign 90"
   },
   "icon-sign-circular-stop": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Circular stop sign"
   },
   "icon-sign-crossroad": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Railroad crossing sign"
   },
   "icon-sign-danger": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Motorway exit countdown marker"
   },
   "icon-sign-direction": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Octagon sign right"
   },
   "icon-sign-highvoltage": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "High voltage electricity"
   },
   "icon-sign-humps": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Squared circle"
   },
   "icon-sign-illlum": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Illuminated sign"
   },
   "icon-sign-lanes": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Lanes merging sign"
   },
   "icon-sign-lowbridge": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Bridge load limit sign"
   },
   "icon-sign-mot": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "MOT symbol"
   },
   "icon-sign-narrowroad": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Road narrowing sign"
   },
   "icon-sign-sqare-disabled": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Disabled"
   },
   "icon-sign-sqare-exit": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Exit sign"
   },
   "icon-sign-sqare-information": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Information"
   },
   "icon-sign-sqare-no-through-road": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "No through road sign"
   },
   "icon-sign-stop": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Stop sign"
   },
   "icon-sign-subway": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "National rail"
   },
   "icon-sign-triangle-down": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Warning triangle sign"
   },
   "icon-sign-triangle-samesides": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Triangle"
   },
   "icon-sign-triangle-up": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "signs"
     ],
     "description": "Triangle"
   },
+  "icon-skull": {
+    "unicode": "",
+    "categories": [
+      "street_cleansing"
+    ],
+    "description": "Skull and crossbones"
+  },
   "icon-stairs-iso": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "barriers"
     ],
     "description": "Stairs"
   },
   "icon-stairs-man": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "barriers"
     ],
     "description": "Man walking up stairs"
   },
   "icon-stairs-shape": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "barriers"
     ],
     "description": "Stairs"
   },
   "icon-stairs-simple": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "barriers"
     ],
     "description": "Stairs"
   },
   "icon-status-blank": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "general"
     ],
     "description": "Double dashes"
   },
   "icon-stl-beacon": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "lighting"
     ],
     "description": "Crossing beacon"
   },
   "icon-stl-bollard": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "bollards"
     ],
     "description": "Illuminated directional bollard"
   },
   "icon-stl-component-bracket": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "lighting"
     ],
     "description": "Bracket"
   },
   "icon-stl-component-capacitator": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "lighting"
     ],
     "description": "Capacitor"
   },
   "icon-stl-component-column": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "lighting"
     ],
     "description": "Column"
   },
   "icon-stl-component-controller": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "lighting"
     ],
     "description": "Controller"
   },
   "icon-stl-component-gear": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "lighting"
     ],
     "description": "Gear"
   },
   "icon-stl-component-lantern": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "lighting"
     ],
     "description": "Lantern"
   },
   "icon-stl-component-sensor": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "lighting"
     ],
     "description": "Sensor"
   },
   "icon-stl-component-sensorcrtl": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "lighting"
     ],
     "description": "Sensor device"
   },
   "icon-stl-component-signal-sensor": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "lighting"
     ],
     "description": "Sensor"
   },
   "icon-stl-feederpillar": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "lighting"
     ],
     "description": "Feeder pillar box"
   },
   "icon-stl-lamp": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "lighting"
     ],
     "description": "Street light"
   },
   "icon-stl-other": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "lighting"
     ],
     "description": "Hanging light"
   },
   "icon-stl-subway": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "lighting"
     ],
     "description": "Wall mounted light"
   },
   "icon-structure-base": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "structure"
     ],
     "description": "Parent component"
   },
   "icon-structure-branch": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "structure"
     ],
     "description": "Network merge"
   },
   "icon-structure-childrens": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "structure"
     ],
     "description": "Child components"
   },
   "icon-structure-component": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "structure"
     ],
     "description": "Child component"
   },
   "icon-structure-disconnected": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "structure"
     ],
     "description": "Broken connection"
   },
   "icon-structure-exchange-horz": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "structure"
     ],
     "description": "Node swap horizontal"
   },
   "icon-structure-exchange-vertical": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "structure"
     ],
     "description": "Node swap vertical"
   },
   "icon-structure-hierarchy": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "structure"
     ],
     "description": "Network merge"
   },
   "icon-structure-join": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "structure"
     ],
     "description": "Network branch"
   },
   "icon-structure-n": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "structure"
     ],
     "description": "Network"
   },
   "icon-structure-parallel": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "structure"
     ],
     "description": "Parallel connections"
   },
   "icon-structure-parallel-join": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "structure"
     ],
     "description": "Network connect down"
   },
   "icon-structure-parallel-merge": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "structure"
     ],
     "description": "Network connect up"
   },
   "icon-structure-parent": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "structure"
     ],
     "description": "Parent components"
   },
   "icon-structure-relationship": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "structure"
     ],
     "description": "Component structure"
   },
   "icon-structure-simple": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "structure"
     ],
     "description": "Network connection"
   },
   "icon-structure-tree": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "structure"
     ],
     "description": "Network structure tree"
   },
   "icon-system": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Face sad"
   },
   "icon-system-1": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Face wink"
   },
   "icon-system-2": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Face smile"
   },
   "icon-system-404": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Face sad"
   },
   "icon-system-404-alt": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Face confused"
   },
   "icon-system-basemap": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Basemap"
   },
   "icon-system-circle-thin": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Circle"
   },
   "icon-system-designer": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Designer"
   },
   "icon-system-epic-fail": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Face dead"
   },
   "icon-system-item-collection": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Collection dots"
   },
   "icon-system-label": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Label tag"
   },
   "icon-system-layers": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Layer"
   },
   "icon-system-mic": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Microphone"
   },
   "icon-system-resource": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Circle halo"
   },
   "icon-system-success": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Face happy"
   },
   "icon-system-webhook": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Webhook"
   },
   "icon-system-workflow": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Workflow"
   },
   "icon-tasks-check": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Clipboard check"
   },
   "icon-tasks-list": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Clipboard task list"
   },
   "icon-tool-cut": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Cut scissors"
   },
   "icon-tool-eraser": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Eraser"
   },
   "icon-tool-eraser1": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Eraser"
   },
   "icon-tool-eraser2": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Eraser"
   },
   "icon-tool-geom-collection": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Geometry collection"
   },
   "icon-tool-line": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Geometry line"
   },
   "icon-tool-multi-line": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Geometry multi-line"
   },
   "icon-tool-multi-point": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Geometry multi-point"
   },
   "icon-tool-multi-polygon": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Geometry multi-polygon"
   },
   "icon-tool-object-line": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Geometry line"
   },
   "icon-tool-object-line-empty": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Geometry line"
   },
   "icon-tool-object-point": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Geometry point"
   },
   "icon-tool-object-point-empty": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Geometry point"
   },
   "icon-tool-object-polygon": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Geometry polygon"
   },
   "icon-tool-object-polygon-empty": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Geometry polygon"
   },
   "icon-tool-object-square": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Geometry bounding box square"
   },
   "icon-tool-object-square-empty": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Geometry bounding box square"
   },
   "icon-tool-point": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Geometry point"
   },
   "icon-tool-polygon": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Geometry polygon"
   },
   "icon-tool-polygon-alt": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Geometry polygon"
   },
   "icon-tool-polygonal-select": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Geometry polygon selection"
   },
   "icon-tool-ruler": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Ruler measure"
   },
   "icon-tool-siccors": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Scissors"
   },
   "icon-traffic-calming": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "traffic"
     ],
     "description": "Road narrow"
   },
   "icon-traffic-chicane": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "traffic"
     ],
     "description": "Road chicane"
   },
   "icon-traffic-ditch": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "traffic"
     ],
     "description": "Road rutting"
   },
   "icon-traffic-hump": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "traffic"
     ],
     "description": "Traffic island"
   },
   "icon-traffic-light-double": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "traffic"
     ],
     "description": "Traffic light double"
   },
   "icon-traffic-light-lantern": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "traffic"
     ],
     "description": "Traffic light lantern"
   },
   "icon-traffic-light-triple": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "traffic"
     ],
     "description": "Traffic light triple"
   },
   "icon-traffic-speedcushion": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "traffic"
     ],
     "description": "Speed cushion"
   },
   "icon-traffic-speedhump": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "traffic"
     ],
     "description": "Speed hump"
   },
   "icon-train": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "crossing"
     ],
     "description": "Steam train"
   },
   "icon-transport-bicycle": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "transport"
     ],
     "description": "Bicycle"
   },
   "icon-transport-bus": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "transport"
     ],
     "description": "Bus"
   },
   "icon-transport-car": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "transport"
     ],
     "description": "Car"
   },
   "icon-transport-motorcycle": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "transport"
     ],
     "description": "Motorcycle"
   },
   "icon-transport-plane": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "transport"
     ],
     "description": "Aeroplane"
   },
   "icon-transport-ship": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "transport"
     ],
     "description": "Ship"
   },
   "icon-transport-train": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "transport"
     ],
     "description": "Steam train"
   },
   "icon-transport-tram": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "transport"
     ],
     "description": "Tram"
   },
   "icon-transport-truck": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "transport"
     ],
     "description": "Truck van"
   },
   "icon-tree-enviromental-structure": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Environmental leaves"
   },
   "icon-tree-grassed-area": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Grass"
   },
   "icon-tree-hedge": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Tall grass hedge"
   },
   "icon-tree-leaf": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Young tree"
   },
   "icon-tree-leaf-average": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Tree"
   },
   "icon-tree-leaf-old": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Mature tree"
   },
   "icon-tree-leaf-small": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Small tree"
   },
   "icon-tree-palm": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Palm tree"
   },
   "icon-tree-pine-old": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Pine tree"
   },
   "icon-tree-pine-small": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Pine tree"
   },
   "icon-tree-planter": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Planter"
   },
   "icon-tree-treed-area": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Trees"
   },
   "icon-tree-vegetation": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "greenery"
     ],
     "description": "Tree and grass"
   },
   "icon-unit-area": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "unit"
     ],
     "description": "Area"
   },
   "icon-unit-length": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "unit"
     ],
     "description": "Ruler measure"
   },
   "icon-unit-per-unit": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "unit"
     ],
     "description": "Tally marks"
   },
   "icon-unit-time": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "unit"
     ],
     "description": "Stop watch timer"
   },
   "icon-unit-volume": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "unit"
     ],
     "description": "Volume"
   },
   "icon-upload": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Upload"
   },
   "icon-user": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "User"
   },
   "icon-user-admin": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "User settings"
   },
   "icon-user-approved": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "User approved"
   },
   "icon-user-block": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "User blocked"
   },
   "icon-user-bot": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Robot face neutral"
   },
   "icon-user-bot-sad": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Robot face sad"
   },
   "icon-user-copy-from-user": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Copy user"
   },
   "icon-user-lock": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "User locked"
   },
   "icon-user-new-permissions": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "User edit"
   },
   "icon-user-power": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Power user"
   },
   "icon-user-team": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "system"
     ],
     "description": "Team"
   },
   "icon-variable-a": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Letter a"
   },
   "icon-variable-b": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Letter b"
   },
   "icon-variable-c": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Letter c"
   },
   "icon-variable-x": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Letter x"
   },
   "icon-variable-y": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],
     "description": "Letter y"
   },
   "icon-variable-z": {
-    "unicode": "",
+    "unicode": "",
     "categories": [
       "math"
     ],

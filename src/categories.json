@@ -598,6 +598,17 @@
       ]
     },
     {
+      "key": "street_cleansing",
+      "icons": [
+        "animal-skull",
+        "biohazard",
+        "graffiti-can",
+        "injection-needle",
+        "poo",
+        "skull"
+      ]
+    },
+    {
       "key": "structure",
       "icons": [
         "structure-base",
@@ -692,6 +703,7 @@
         "lock",
         "misc-attachment",
         "misc-graph-display",
+        "multi-select",
         "pathfinder",
         "reports",
         "search-empty",

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>multi-select</title>
+    <g id="multi-select" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M58,26 L58,58 L6,58 L6,26 L58,26 Z M41.3802817,32 L28.1971831,47.8454545 L22.5352113,40.7818182 L20,42.9772727 L28.3661972,53 L44,35.15 L41.3802817,32 Z M53,16 L53,21 L11,21 L11,16 L53,16 Z M48,6 L48,11 L16,11 L16,6 L48,6 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
+</svg>
